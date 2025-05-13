@@ -16,8 +16,8 @@ Este repositório apresenta o Portfólio de Projetos Integradores (APIs), desenv
 
 # Sobre mim
 
+<p align="center"><img src="julia.png" width="300" height="320" alt="Imagem de Júlia Quitério"></p>
 
-<p align="center"><img src="julia.png" width="300" height="320" alt="Imagem de Júlia"></p>
 
 <br>
 
@@ -30,7 +30,7 @@ Busco constantemente destacar e expandir meus aprendizados, estando sempre abert
 
 # Contatos
 📧 juliapquiterio@gmail.com <br>
-🤝 <a href="[linkedin.com/in/júlia-quitério-934894205](https://www.linkedin.com/in/j%C3%BAlia-quit%C3%A9rio-934894205/)">LinkedIn</a> <br>
+🤝 <a href="https://www.linkedin.com/in/j%C3%BAlia-quit%C3%A9rio-934894205/">LinkedIn</a> <br>
 🧑‍💻 <a href="https://github.com/juliaquiterio">GitHub</a>
 
 
