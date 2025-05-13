@@ -23,7 +23,7 @@ Este repositório apresenta o Portfólio de Projetos Integradores (APIs), desenv
 
 Me chamo Júlia Pereira Quitério, tenho 22 anos e sou estudante de Banco de Dados (6º semestre) na Fatec São José dos Campos (SP)| Prof. Jessen Vidal.  Contando um pouco sobre mim, minha paixão pela tecnologia começou no curso técnico de Análise e Desenvolvimento de Sistemas (ADS) na ETEC de Caçapava (SP). Especificamente a matéria de Banco de dados foi o que brilhou meus olhos, e foi ali que descobri meu interesse pela área de Dados e decidi seguir carreira nesse universo na Fatec por ser a mesma entidade que a Etec (CPS - Centro Paula Souza).
 
-Ao ingressar na Fatec, aprofundei meus conhecimentos e tive a oportunidade de iniciar minha trajetória profissional como estagiária em Dados na mesma empresa que estou hoje, Elo Cartões uma empresa especializada em meios de pagamento e 100% brasileira. Fui efetivada 1 ano após o estágio e hoje como Analista de Dados trabalho com SQL, DBT (data build tools), automações, modelagem e estruturação de dados, inteligência de negócios, entre outros, onde aplico e aprimoro diariamente minhas habilidadesque adquiri principalmente na faculdade.
+Ao ingressar na Fatec, aprofundei meus conhecimentos e tive a oportunidade de iniciar minha trajetória profissional como estagiária em Dados na mesma empresa que estou hoje, Elo Cartões uma empresa especializada em meios de pagamento e 100% brasileira. Fui efetivada 1 ano após o estágio e hoje como Analista de Dados trabalho com SQL, DBT (data build tools), automações, modelagem e estruturação de dados, inteligência de negócios, entre outros, onde aplico e aprimoro diariamente minhas habilidades que adquiri principalmente na faculdade.
 
 Busco constantemente destacar e expandir meus aprendizados, estando sempre aberta a novos desafios. Minha experiência em projetos envolvendo APIs  foi fundamental para o desenvolvimento das minhas habilidades técnicas (hard skills) e interpessoais (soft skills), tornando minha abordagem profissional ainda mais completa.
 
@@ -336,7 +336,7 @@ Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a>
 
 <div align="center">
 
-<img src="pro4jobs.png" alt="Grupo Codados" width="300" height="290">
+<img src="https://raw.githubusercontent.com/juliaquiterio/Portfolio-Julia-Quiterio/main/pro4jobs.png" alt="Grupo Codados" width="300" height="290">
 
 
 
