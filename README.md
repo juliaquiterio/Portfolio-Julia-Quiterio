@@ -5,6 +5,15 @@ __Repositório Dedicado ao Portfólio do API | Banco de Dados__
 Este repositório apresenta o Portfólio de Projetos Integradores (APIs), desenvolvidos para aplicar o aprendizado obtido em sala de aula e maximizar a assimilação do conhecimento. O Trabalho de Graduação (TG) na modalidade Portfólio das Aprendizagens foi elaborado com base nesses Projetos Integradores e apresentado à Faculdade de Tecnologia de São José dos Campos como requisito para a obtenção do título de Tecnóloga em Banco de Dados.
 
 
+
+# 👋 Bem vindo(a)! 
+
+💾 **Analista de Dados | Estudante de Banco de Dados**  
+🎓 **Fatec São José dos Campos - 6º semestre**  
+
+🚀 Apaixonada por tecnologia e dados, sempre buscando aprender e criar soluções inovadoras.  
+
+
 # Sobre mim
 
 
@@ -12,11 +21,37 @@ Este repositório apresenta o Portfólio de Projetos Integradores (APIs), desenv
 
 <br>
 
-Me chamo Júlia Pereira Quitério, e sou estudante de Banco de Dados (6º semestre) na Fatec de São José dos Campos (SP). Tenho grande admiração pelo universo dos dados e da tecnologia. Atualmente, como Analista de Dados na empresa Elo cartões que tem como foco meios de pagamento, onde posso aplicar e ampliar meus conhecimentos. Tenho buscado destacar meus aprendizados e torná-los cada vez mais visíveis, sempre aberta a contribuir e a aprender. Trabalhar com os projetos APIs tem me permitido expandir minhas habilidades, não apenas em Banco de Dados, mas também em outras áreas técnicas (hard skills) e de desenvolvimento pessoal (soft skills), enriquecendo minha abordagem profissional.
+Me chamo Júlia Pereira Quitério, tenho 22 anos e sou estudante de Banco de Dados (6º semestre) na Fatec São José dos Campos (SP)| Prof. Jessen Vidal.  Contando um pouco sobre mim, minha paixão pela tecnologia começou no curso técnico de Análise e Desenvolvimento de Sistemas (ADS) na ETEC de Caçapava (SP). Especificamente a matéria de Banco de dados foi o que brilhou meus olhos, e foi ali que descobri meu interesse pela área de Dados e decidi seguir carreira nesse universo na Fatec por ser a mesma entidade que a Etec (CPS - Centro Paula Souza).
+
+Ao ingressar na Fatec, aprofundei meus conhecimentos e tive a oportunidade de iniciar minha trajetória profissional como estagiária em Dados na mesma empresa que estou hoje, Elo Cartões uma empresa especializada em meios de pagamento e 100% brasileira. Fui efetivada 1 ano após o estágio e hoje como Analista de Dados trabalho com SQL, DBT (data build tools), automações, modelagem e estruturação de dados, inteligência de negócios, entre outros, onde aplico e aprimoro diariamente minhas habilidadesque adquiri principalmente na faculdade.
+
+Busco constantemente destacar e expandir meus aprendizados, estando sempre aberta a novos desafios. Minha experiência em projetos envolvendo APIs  foi fundamental para o desenvolvimento das minhas habilidades técnicas (hard skills) e interpessoais (soft skills), tornando minha abordagem profissional ainda mais completa.
 
 
+# Contatos
+📧 juliapquiterio@gmail.com <br>
+🤝 <a href="[linkedin.com/in/júlia-quitério-934894205](https://www.linkedin.com/in/j%C3%BAlia-quit%C3%A9rio-934894205/)">LinkedIn</a> <br>
+🧑‍💻 <a href="https://github.com/juliaquiterio">GitHub</a>
 
-# Projetos API
+
+# Meus principais conhecimentos
+
+Sou apaixonada pelo mundo dos dados, mas também possuo amplo conhecimento em tecnologias voltadas para desenvolvimento back-end e projetos. Entre todos meus conhecimentoss, se destacam:
+
+* Java
+* Python
+* Spring Framework
+* SQL
+* HTML
+* JavaScript
+* CSS
+* Pacote Office
+* Metodologia Scrum
+* Ferramenta de Gestão (Teams, Slack, Jira)
+
+<br>
+
+# 📌 Projetos API
 
 
 <details><summary>1º semestre</summary>
@@ -43,21 +78,23 @@ Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Pro
 
 <h2>Assistente Virtual de Viagens</h2>
 
-<h3>Descrição do Projeto</h3>
+<h3>📌 Descrição do Projeto</h3>
 Mó Viagem é uma assistente virtual feita em aplicação web desenvolvida na linguagem de programação <a href="https://www.python.org/">Python</a>, criada para auxiliar turistas a planejar roteiros de viagem. Nossa missão é mostrar aos usuários como eles podem explorar e aproveitar ao máximo as belezas de seu próprio país, muitas vezes ainda desconhecidas ou subestimadas.
 
 
 
 
-<h4><li><b>Desafio Proposto</b></li></h4>
+<h4><li><b>Desafio</b></li></h4>
         <p align="justify">
        O professor Fabiano Sabha, que representa o nosso cliente, propôs o desafio de criar uma assistente virtual utilizando python como linguagem principal, ficando a critério do Grupo do API escoher a finalidade para tal.
         </p>
 
 
+<h2>💻 Tecnologias aplicadas</h2>
 
 
-<summary><h2>Tecnologias Aplicadas</h2></summary>
+<details><summary>Saiba  mais</summary>
+
 <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" width="150" height="150">
 
 </p>
@@ -79,12 +116,11 @@ Mó Viagem é uma assistente virtual feita em aplicação web desenvolvida na li
 - **Webbrowser**: Abre URLs no navegador padrão.
 - **Pyttsx3**: Síntese de voz no Python.
 
+</details>
 
-<h2>Contribuições Pessoais</h2>
-
-
+<h2>Contribuições pessoais</h2>
 <details>
-    <summary>Backend</summary>
+    <summary>Saiba mais</summary>
 
   __Desenvolvimento do Roteiro e Curiosidades:__
    Como desenvolvedora eu pude lidar com a Tecnologia do Python , utilizando as bibliotecas da Wikipedia, PyAudio,  Re e Webbrower. Utilizei a junção dessas bibliotecas para que o Usuário pudesse saber mais sobre os roteiros das cidades onde ele buscava a partir de uma chamada HTTPS na Wikipedia como referencia. O usuário conseguia ouvir e assim ter uma gama de roteiros em que ele pudesse explorar e saber sobre curiosidades daquele local que ele estava perguntando a Assistente Virtual.
@@ -236,28 +272,53 @@ Veja abaixo um exemplo do Script:
 
 
 <p>
-Como desenvolvedora, tive a oportunidade de aprender, inicialmente, sobre o que é um Projeto Integrador na faculdade, o que contribuiu significativamente para meu desenvolvimento tanto educacional quanto profissional. Nesse processo, pude vivenciar o desenvolvimento de um projeto do zero, trabalhando em equipe, lidando com um cliente e, acima de tudo, enfrentando desafios. Aprendi novas formas de desenvolver meu raciocínio lógico e aplicar os conhecimentos adquiridos ao projeto. Além disso, atuei no Backend, utilizando bibliotecas com as quais ainda não havia trabalhado, explorando sua performance e entendendo como poderiam beneficiar o projeto.
-
-
-   __- Hard Skills:__ <br>
-   Python <br>
-   Lógica de Programação <br>
-   Metodologia Ágil | Scrum
-
-   __- Soft Skills:__ <br>
-   Organização <br>
-   Proatividade <br>
-   Trabalho em equipe
+Como desenvolvedora, tive a oportunidade de aprender, inicialmente, sobre o que é um Projeto Integrador na faculdade, o que contribuiu significativamente para meu desenvolvimento tanto educacional quanto profissional. Nesse processo, pude vivenciar o desenvolvimento de um projeto do zero, trabalhando em equipe, lidando com um cliente e, acima de tudo, enfrentando desafios. Aprendi novas formas de desenvolver meu raciocínio lógico e aplicar os conhecimentos adquiridos ao projeto. Além disso, atuei no Backend, utilizando bibliotecas do  Python com as quais ainda não havia trabalhado, explorando sua performance e entendendo como poderiam beneficiar o projeto.
 </p>
 
 
+</details>
 
+
+<br>
+
+   <h3>Hard Skills:</h3>
+
+✅✅✅⬜⬜ **Python**  
+Pude aplicar os conhecimentos adquiridos tanto em sala de aula quanto por conta própria, utilizando Python como ferramenta essencial para o desenvolvimento do projeto, uma vez que era um dos requisitos da API.  
+
+
+✅✅✅✅⬜ **Lógica de Programação**  
+Foi fundamental para todo o desenvolvimento, auxiliando na compreensão do problema e na escrita de um código mais limpo, organizado e eficiente.  
+
+
+✅✅✅✅✅ **Metodologia Ágil | Scrum**  
+Adotei essa metodologia na gestão do projeto junto à minha equipe, organizando as sprints de forma eficiente. Dessa forma, pude aplicar na prática os conceitos aprendidos em sala de aula e em cursos, garantindo um fluxo de trabalho mais produtivo e estruturado.  
+
+
+
+   <h3>Soft Skills:</h3>
+
+✅✅✅✅✅ **Organização**  
+Pude usar essa minha soft skill para me organizar nas minhas atividades e nos meus estudos e isso foi essencial para todo o desenvolvimento do projeto.  
+
+
+✅✅✅✅⬜ **Proatividade**  
+Fui proativa em saber reconhecer que se minha equipe estava precisando de apoio eu estudei sobre os roteiros e pesquisei mais para poder auxiliá-los. E fui atrás das coisas das quais não sabia ainda, seja procurando os professores ou pesquisando na internet.  
+
+
+✅✅✅✅✅ **Trabalho em equipe**  
+Esse foi um dos tópicos mais importantes pois sem ele não seria possível fazermos uma entrega tão eficiente do nosso produto. Soube lidar com situações e agirmos em grupo nas atividades, assim conseguimos conciliá-la e entregá-las com eficiência.  
+
+
+
+<h3>📽️ Vídeo demonstrativo do projeto</h3>
+
+
+<a href="https://youtu.be/sMsg5akNBOQ?feature=shared">Assista aqui</a>
 
 </details>
 
 
-
-</details>
 
 ----
 
@@ -271,9 +332,7 @@ Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a>
 
 <h4>Link do repositório:</h4>
 
-<p align="left">
- <a href="https://github.com/Codados/PRO4Jobs">Acesse aqui</a>
-</p>
+<p align="left"><a href="https://github.com/Codados/PRO4Jobs">Acesse aqui</a></p>
 
 <div align="center">
 
@@ -287,12 +346,12 @@ Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a>
 
 <h2>Pro4Jobs</h2>
 
-<h3>Descrição do Projeto</h3>
+<h3>📌 Descrição do Projeto</h3>
 Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego, otimizar o trabalho das pessoas do setor de Recursos Humanos.
 
 
 
-<h4><li><b>Desafio Proposto</b></li></h4>
+<h4><li><b>Desafio</b></li></h4>
         <p align="justify">
        O cliente da Pro4Tech nos desafiou a criar uma aplicação DeskTop para auxiliar o setor de Recursos Humanos para gerenciar as vagas de emprego da empresa.Foi usada a linguagem Java como principal para o desenvolvimento da aplicação.
         </p>
@@ -300,7 +359,9 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
 
 
 
-<summary><h2>Tecnologias Aplicadas</h2></summary>
+<h2>💻 Tecnologias aplicadas</h2>
+
+<details><summary>Saiba  mais</summary>
 <img src="java.png" width="150" height="150">
 
 
@@ -330,17 +391,15 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
 <a href="https://www.oracle.com/br/database/">Oracle</a>
           <p align="justify">
          O Oracle Database é um sistema de banco de dados robusto e escalável, projetado para gerenciar grandes volumes de dados em empresas. Ele oferece alta segurança, disponibilidade e suporte para transações complexas, sendo popular em ambientes corporativos. </p>
+</details>
 
 
-
-<h2>Contribuições Pessoais</h2>
-
-
+<h2>Contribuições pessoais</h2>
 <details>
-    <summary>Backend</summary>
+    <summary>Saiba mais</summary>
 
   __Desenvolvimento Relatório do RH:__
-   Como desenvolvedora eu pude lidar com a Tecnologia de Java , onde utilizei-a para que o Usuário pudesse acessar o relatório geral das vagas de emprego.
+   Como desenvolvedora, tive a oportunidade de trabalhar com a tecnologia Java, utilizando-a para desenvolver uma funcionalidade que permite ao usuário acessar o relatório geral das vagas de emprego de forma prática e eficiente.
 
 Veja abaixo um exemplo do Script (Parcial):
 
@@ -558,46 +617,54 @@ Veja abaixo um exemplo do Script (Parcial):
 | `Rafael Monteiro` | rafael.monteiro@pro4tech.com.br |
 
 <br>
-
-## Integrantes do grupo :woman_technologist: :man_technologist: : </br>
-| Integrante | Função |
-| --- | --- |
-| `Cainan Thomas Branco Santos` | Desenvolvedor <br><p align = "center">[<img width="35" height="35" src="Imagens_projeto/link.png"></p>](https://www.linkedin.com/in/cainan-santos-70938094/ "link")|
-| `Daniele de Jesus Souza` | Desenvolvedora <br><p align = "center">[<img width="35" height="35" src="Imagens_projeto/link.png"></p>](https://www.linkedin.com/in/daniele-de-jesus-souza-35859a209 "link")|
-| `Felipe dos Santos Bispo` |  Desenvolvedor <br><p align = "center">[<img width="35" height="35" src="Imagens_projeto/link.png"></p>](https://www.linkedin.com/in/felipe-bispo-632104235/ "link") |
-| `Guilherme Augusto Wunderlich Serapião` | Desenvolvedor <br><p align = "center">[<img width="35" height="35" src="Imagens_projeto/link.png"></p>](https://www.linkedin.com/in/guilherme-wunderlich-aa56a2228/ "link") |
-| `Júlia Pereira Quitério` | Desenvolvedora <br><p align = "center">[<img width="35" height="35" src="Imagens_projeto/link.png"></p>](https://www.linkedin.com/in/j%C3%BAlia-quit%C3%A9rio-934894205/ "link") |
-| `Lucas Emanoel Teixeira Engracio da Silva` |Product Owner <br><p align = "center">[<img width="35" height="35" src="Imagens_projeto/link.png"></p>](https://www.linkedin.com/in/lucas-emanoel-teixeira-engracio-da-silva-ab5611234/ "link")|
-| `Marcella Yanes Borges do Amaral` | Scrum Master <br><p align = "center">[<img width="35" height="35" src="Imagens_projeto/link.png"></p>](https://www.linkedin.com/in/marcella-yanes-589371209/ "link")|
-<br>
 ...
 ```
 
-<h2>Lições Aprendidas</h2>
+<h2>📚 Lições Aprendidas</h2>
 
 
 <p>
 
 Como desenvolvedora, tive a oportunidade de aprender e aplicar técnicas avançadas em Java, utilizando a linguagem para criar soluções eficazes em minhas aplicações. Essa prática me permitiu aprimorar minhas habilidades e entender o valor real desses conceitos, aplicando com sucesso o que aprendi em sala de aula e elevando a qualidade dos projetos desenvolvidos.
 
+Durante esse projeto, aprimorei minhas habilidades em:
 
-   __- Hard Skills:__ <br>
-   Java <br>
-   HTML <br>
-   Metodologia Ágil | Scrum
+* Manipulação de banco de dados com Java (JDBC)
+* Criação de interfaces gráficas com Swing
+* Organização e documentação de sistemas via README
+* Práticas ágeis com a metodologia Scrum
 
-   __- Soft Skills:__ <br>
-   Comunicação <br>
-   Proatividade <br>
-   Trabalho em equipe
 </p>
 
 
+[🔗 Clique para ver demonstração em vídeo](Tela_Candidatos.mp4)
+
 
 
 </details>
 
+<br>
+
+
+   __Hard Skills:__ <br>
+✅✅✅⬜⬜ **JAVA**  
+Pude aplicar os conhecimentos adquiridos em sala de aula sobre a linguagem de programação de JAVA no projeto e foi essencial para que eu pudesse entender mais sobre a linguagem e orientação de objetos.  
+✅✅✅✅⬜ **Markdown**  
+Utilizei a linguagem de marcação para documentação de todo o nosso projeto e foi muito bom para entender  organizar de forma mais visual todo o escopo.  
+✅✅✅✅✅**Metodologia Ágil | Scrum**  
+Adotei essa metodologia na gestão do projeto junto à minha equipe, organizando as sprints de forma eficiente. Dessa forma, pude aplicar na prática os conceitos aprendidos em sala de aula e em cursos, garantindo um fluxo de trabalho mais produtivo e estruturado.
+   
+
+   __Soft Skills:__ <br>
+✅✅✅✅⬜ **Comunicação:** A comunicação foi essencial para que pudéssemos ter um diálogo aberto para com a equipe e com o nosso cliente, onde utilizamos o Slack e as aulas para retirar as dúvidas.  
+✅✅✅⬜⬜ **Trabalho em equipe:** O trabalho em equipe esteve presente em todo o desenvolvimento mas há oportunidade de melhoria, pois o grupo poderia ter mais união  para auxiliar oscolegas, digo isso por uma visão geral do grupo como um todo.  
+ 
+
+
+
 </details>
+
+
 
 ----
 
@@ -626,14 +693,17 @@ Parceiro Acadêmico: <a href="https://www.domrock.net/">Dom Rock</a>
 <h3>Descrição do Projeto</h3>
 Sales Vox é uma aplicação web de um Sistema de Gerenciamento de Vendas com foco em auxiliar os vendedores a terem uma visão sobre suas vendas e o administrador que poderia ter um controle geral sobre.
 
-<h4><li><b>Desafio Proposto</b></li></h4>
+<h4><li><b>Desafio</b></li></h4>
         <p align="justify">
        A empresa Dom Rock lançou um desafio aos alunos do curso de Banco de Dados para que auxiliasse na resolução para um obstáculo que era acompanhar alguns KPI's através de Dashboards de um sistema  de Gerenciamento de Vendas. Como solução geramos uma aplicação WEB  com Spring Boot possibilitando que o usuário acompanhasse 
 o andamento das vendas e pudesse tirar algumas respostas através do que os dados informavam.
         </p>
 
-<details>
-<summary>Tecnologias Aplicadas</summary>
+
+
+<h4>💻 Tecnologias aplicadas</h4>
+
+<details><summary>Saiba  mais</summary>
 <img src="https://www.digics.si/wp-content/uploads/2020/09/spring_boot_logo.png" width="300" height="150">
 
 </p>
@@ -660,8 +730,9 @@ o andamento das vendas e pudesse tirar algumas respostas através do que os dado
          </p>
          </details>
 
-<h3>Contribuições Pessoais</h3>
+<h3>Contribuições pessoais</h3>
 
+<details><summary>Saiba mais</summary>
 
 <details>
     <summary>Backend - Rota HTTPs Login do Vendedor</summary>
@@ -746,8 +817,9 @@ create table cliente(
 
 ```
 
-
  </details>
+
+
 
 
  <details>
@@ -764,6 +836,8 @@ Sendo as atividades desempenhadas:
 <a href= https://github.com/equipe-vox/api-3sem#link-disponivel-do-burndown> Burndown do Produto</a>
 
 </details>
+
+ </details>
 
 <h3>Lições Aprendidas</h3>
 
@@ -829,7 +903,7 @@ Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia</a>
 Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios modernos e históricos, a empresa Jaia, apresentou um desafio significativo. A condução de inspeções prediais estava provando ser uma tarefa morosa e suscetível a imprecisões. Diante desse cenário, a Jaia buscou soluções inovadoras para otimizar esse processo crucial. A visão estratégica da empresa contemplou o desenvolvimento de um software de inspeção predial, projetado para revolucionar a abordagem atual. 
 
 
-<h4><li><b>Desafio Proposto</b></li></h4>
+<h4><li><b>Desafio</b></li></h4>
         <p align="justify">
        A plataforma concebida promete oferecer uma experiência intuitiva, capacitando os inspetores a documentar minuciosamente detalhes relevantes e capturar evidências visuais de forma eficaz. Adicionalmente, a geração instantânea de relatórios abastecerá a tomada de decisões embasadas. A Jaia, reconhecendo a necessidade de aprimorar a qualidade e eficiência das inspeções, direcionou seus esforços para o desenvolvimento desse software inovador. O resultado obtido transcendeu as expectativas iniciais, beneficiando não somente a empresa, mas também elevando o padrão das inspeções prediais na esfera urbana, contribuindo, assim, para uma maior segurança e excelência nas estruturas urbanas.
 	   </p>
@@ -837,7 +911,7 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
 
 
 
-<summary><h2>Tecnologias Aplicadas</h2></summary>
+<summary><h2>💻 Tecnologias aplicadas</h2></summary>
 <img src="java.png" width="150" height="150">
 
 
@@ -876,7 +950,7 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
 		 
 
 
-<h2>Contribuições Pessoais</h2>
+<h2>Contribuições pessoais</h2>
 
 
 <details>
@@ -1018,13 +1092,13 @@ Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a>
 <h3>Descrição do Projeto</h3>
 O Sistema Tecsus é um sistema de gerenciamento de dashboards.
 
-<h4><li><b>Desafio Proposto</b></li></h4>
+<h4><li><b>Desafio</b></li></h4>
         <p align="justify">
         A TecSUS realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a uma concessionária de abastecimento. A Tecsus possuem uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, a empresa tem interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado.
         </p>
 
 <details>
-<summary>Tecnologias Aplicadas</summary>
+<summary>Tecnologias aplicadas</summary>
 <img src="https://www.digics.si/wp-content/uploads/2020/09/spring_boot_logo.png" width="300" height="150">
 
 </p>
@@ -1051,7 +1125,7 @@ O Sistema Tecsus é um sistema de gerenciamento de dashboards.
          </p>
          </details>
 
-<h3>Contribuições Pessoais</h3>
+<h3>Contribuições pessoais</h3>
 
 
 <details>
