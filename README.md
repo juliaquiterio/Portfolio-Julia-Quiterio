@@ -18,10 +18,6 @@ Este repositório apresenta o Portfólio de Projetos Integradores (APIs), desenv
 
 <p align="center"><img src="https://raw.githubusercontent.com/juliaquiterio/Portfolio-Julia-Quiterio/main/julia.png" width="300" height="320"></p>
 
-<p align="center">
-  <img src="./julia.png" alt="Minha foto" width="300" height="320">
-</p>
-
 
 <br>
 
