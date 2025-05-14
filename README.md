@@ -9,7 +9,7 @@ Este repositório apresenta o Portfólio de Projetos Integradores (APIs), desenv
 # 👋 Bem vindo(a)! 
 
 💾 **Analista de Dados | Estudante de Banco de Dados**  
-🎓 **Fatec São José dos Campos - 6º semestre**  
+🎓 **Fatec São José dos Campos**  
 
 🚀 Apaixonada por tecnologia e dados, sempre buscando aprender e criar soluções inovadoras.  
 
@@ -690,7 +690,7 @@ Parceiro Acadêmico: <a href="https://www.domrock.net/">Dom Rock</a>
 
 <h2>Sistema de Gerenciamento de Vendas</h2>
 
-<h3>Descrição do Projeto</h3>
+<h3>📌 Descrição do Projeto</h3>
 Sales Vox é uma aplicação web de um Sistema de Gerenciamento de Vendas com foco em auxiliar os vendedores a terem uma visão sobre suas vendas e o administrador que poderia ter um controle geral sobre.
 
 <h4><li><b>Desafio</b></li></h4>
@@ -734,8 +734,8 @@ o andamento das vendas e pudesse tirar algumas respostas através do que os dado
 
 <details><summary>Saiba mais</summary>
 
-<details>
-    <summary>Backend - Rota HTTPs Login do Vendedor</summary>
+
+**Backend - Rota HTTPs Login do Vendedor**
 
   __Desenvolvimento da Tela de Login do Vendedor:__
    Como desenvolvedora eu pude lidar com a Tecnologia do Spring Boot focada no Backend onde usamos juntamente com a Arquitetura Rest podendo criar as rotas para o Login da persona (Vendedor), onde ele poderia acessar a rota permitindo o mesmo acessar a aplicação.
@@ -776,11 +776,10 @@ public class VendedorController {
 
 <a href=https://github.com/equipe-vox/api-3sem/tree/main/api>Acesse aqui o repositório</a>
 
-</details>
 
 
-<details>
-<summary>Modelagem de dados - DDL</summary>
+
+**Modelagem de dados - DDL**
 
 __Apoio ao Desenvolvimento do Banco de Dados:__
  Fui responsável por dar o apoio a modelagem de Dados tanto as etapas de DER quanto MER e o DDL. Podendo aplicar os conhecimenro adquiridos em sala de aula.
@@ -817,13 +816,12 @@ create table cliente(
 
 ```
 
- </details>
 
 
 
 
- <details>
-    <summary>Metodologia Ágil</summary>
+
+***Metodologia Ágil**
 <p>Eu pude contribuir como Product Owner , mais conhecido como PO do nosso grupo Vox. Assim realizando o levantamento dos requisitos que mais faziam sentido. E em paralelo pude contribuir com o Back-end do projeto atuando tanto na parte do Banco de Dados, quanto no código. </br>
 Sendo as atividades desempenhadas:
 </p>
@@ -835,41 +833,41 @@ Sendo as atividades desempenhadas:
 <a href= https://github.com/equipe-vox/api-3sem#backlog-do-produto>Backlog do Produto</a> •
 <a href= https://github.com/equipe-vox/api-3sem#link-disponivel-do-burndown> Burndown do Produto</a>
 
+<h3>📚 Lições Aprendidas</h3>
+<p>
+Como Desenvolvedora, pude aprimorar meu raciocínio lógico e aprofundar meus conhecimentos em Spring Boot, compreendendo na prática como utilizá-lo no desenvolvimento de aplicações reais. Além disso, tive a oportunidade de focar mais intensamente na parte de Banco de Dados, aplicando os conteúdos aprendidos em sala de aula para realizar a modelagem de dados de forma estruturada e eficiente, o que contribuiu diretamente para a qualidade técnica dos projetos.
+
+Como Product Owner (PO), desenvolvi minha capacidade de comunicação com o cliente, entendendo a importância de ouvir, interpretar e traduzir as necessidades do negócio em requisitos claros para o time. Percebi também que a organização é essencial no processo de desenvolvimento, e que trabalhar em conjunto com os desenvolvedores para alinhar prazos e priorizar entregas de maior valor é fundamental para o sucesso do projeto.
+
+Durante esse projeto, aprimorei minhas habilidades em:
+
+- Modelagem e manipulação de dados
+- Desenvolvimento de aplicações com Spring Boot
+- Comunicação e alinhamento com stakeholders
+- Organização e definição de prioridades no papel de PO
+</p>
+
+
 </details>
+
+
+ <br>
+
+   __Hard Skills:__ <br>
+✅✅✅✅⬜ **JAVA**  
+Pude aplicar os conhecimentos adquiridos em sala de aula sobre a linguagem de programação de JAVA no projeto e foi essencial para que eu pudesse entender mais sobre a linguagem e orientação de objetos.  
+✅✅✅✅✅ **Markdown**  
+Utilizei a linguagem de marcação para documentação de todo o nosso projeto e foi muito bom para entender  organizar de forma mais visual todo o escopo.  
+
+
+   __Soft Skills:__ <br>
+✅✅✅✅✅ **Organização:** A comunicação foi essencial para que pudéssemos ter um diálogo aberto para com a equipe e com o nosso cliente, onde utilizamos o Slack e as aulas para retirar as dúvidas.  
+✅✅✅⬜⬜ **Proatividade:** Tive a proatividade de iniciar tasks que estavam travadas e  ajudei meus colegas que estavam com dificuldades para o desenvolvimento.  
+ 
 
  </details>
 
-<h3>Lições Aprendidas</h3>
 
-
-<p>
-Como Desenvolvedora pude me desenvolver em Raciocínio Lógico e aprender mais sobre Spring Boot e ver como utilizá-lo para o desenvolvimento de projetos.E além da parte do BackEnd pude me desenvolver mais focada em Banco de Dados utilizando os conhecimentos passados em sala de aula e poder aplicar para desevolver a Modelagem dos dados.
-
-
-   __- Hard Skills:__ <br>
-   Java (Spring Boot) <br>
-   Modelagem em Banco de Dados
-
-
-   __- Soft Skills:__ <br>
-   Organização <br>
-   Proatividade
-</p>
-
-
-<p>
-Como Product Owner(PO) pude aprender o dia a dia de como lidar e principalmente se comunicar com o cliente, e como isso é de suma importância para o desenvolvimento de um projeto, e que a organização é um ponto  que não pode ser deixado de lado , trabalhando juntamente com o time de desenvolvedores podemos alinhar os prazos e definir os requisitos de maior valor de entrega para o Cleinte.
-
-
-   __- Hard Skills:__ <br>
-   Slack: Ferramenta de Auxilio para Metodologia<br>
-
-   __- Soft Skills:__ <br>
-   Organização <br>
-   Gestão de Projeto <br>
-
-</p>
-</details>
 
 ----
 
@@ -889,7 +887,7 @@ Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia</a>
 
 <div align="center">
 
-<img src="Jaia.png" alt="Grupo Codados" width="300" height="290">
+<img src="https://raw.githubusercontent.com/juliaquiterio/Portfolio-Julia-Quiterio/main/Jaia.jpg" width="300" height="290">
 
 
 
@@ -899,7 +897,7 @@ Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia</a>
 
 <h2>Jaia</h2>
 
-<h3>Descrição do Projeto</h3>
+<h3>📌  Descrição do Projeto</h3>
 Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios modernos e históricos, a empresa Jaia, apresentou um desafio significativo. A condução de inspeções prediais estava provando ser uma tarefa morosa e suscetível a imprecisões. Diante desse cenário, a Jaia buscou soluções inovadoras para otimizar esse processo crucial. A visão estratégica da empresa contemplou o desenvolvimento de um software de inspeção predial, projetado para revolucionar a abordagem atual. 
 
 
@@ -912,6 +910,8 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
 
 
 <summary><h2>💻 Tecnologias aplicadas</h2></summary>
+
+<details><summary>Saiba  mais</summary>
 <img src="java.png" width="150" height="150">
 
 
@@ -948,13 +948,13 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
           <p align="justify">
          O Oracle Database é um sistema de banco de dados robusto e escalável, projetado para gerenciar grandes volumes de dados em empresas. Ele oferece alta segurança, disponibilidade e suporte para transações complexas, sendo popular em ambientes corporativos. </p>		 
 		 
-
+</details>
 
 <h2>Contribuições pessoais</h2>
 
 
-<details>
-    <summary>Backend</summary>
+<details><summary>Saiba mais</summary>
+<p>Backend</p>
 
   __Desenvolvimento do DDL (Modelagem de dados):__
    Como desenvolvedora eu desenvolvi a modelagem de dados em DDL para que pudessemos ter a integridade e a normalização dos dados.
@@ -1039,32 +1039,46 @@ public class DepartamentoController {
 }
 ```
 
-<h2>Lições Aprendidas</h2>
+
+<h3>📚 Lições Aprendidas</h3>
 
 
 <p>
+Como Desenvolvedora, tive a oportunidade de aprender e aplicar técnicas avançadas em Java, utilizando a linguagem para criar soluções eficazes nas aplicações desenvolvidas. Essa prática contribuiu diretamente para o aprimoramento das minhas habilidades técnicas e para uma compreensão mais profunda dos conceitos vistos em sala de aula, elevando significativamente a qualidade dos projetos.
 
-Como desenvolvedora, tive a oportunidade de aprender e aplicar técnicas avançadas em Java, utilizando a linguagem para criar soluções eficazes em minhas aplicações. Essa prática me permitiu aprimorar minhas habilidades e entender o valor real desses conceitos, aplicando com sucesso o que aprendi em sala de aula e elevando a qualidade dos projetos desenvolvidos.
+Durante esse projeto, também pude utilizar HTML para construção de interfaces e aplicar metodologias ágeis, como Scrum, para organizar e acompanhar o progresso do time de forma eficiente. Essa vivência reforçou a importância da colaboração, da comunicação clara e da proatividade no ambiente de trabalho, resultando em entregas mais alinhadas com os objetivos do negócio.
 
+Durante esse projeto, aprimorei minhas habilidades em:
 
-   __- Hard Skills:__ <br>
-   Java <br>
-   HTML <br>
-   Metodologia Ágil | Scrum
-
-   __- Soft Skills:__ <br>
-   Comunicação <br>
-   Proatividade <br>
-   Trabalho em equipe
+- Programação orientada a objetos com Java  
+- Criação de interfaces com HTML  
+- Aplicação da Metodologia Ágil (Scrum) no desenvolvimento  
+- Comunicação eficaz e trabalho em equipe  
+- Proatividade na identificação e resolução de problemas
 </p>
 
 
 
 
-</details>
 
 </details>
 
+<br>
+
+
+   __Hard Skills:__ <br>
+✅✅✅✅⬜ **Modelagem de Dados (DDL)**
+Fui responsável pela criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de constraints, foreign keys e relacionamentos entre tabelas como endereco, cliente e requisicao.  
+✅✅✅✅⬜ **Spring Boot**
+Utilizei o Spring Boot para estruturar e gerenciar os serviços e endpoints REST, permitindo uma integração eficiente com o banco de dados e facilitando a manutenção do sistema.  
+✅✅✅✅⬜ **SQL**
+Implementei consultas e criações de tabelas utilizando SQL puro, reforçando meus conhecimentos em comandos como CREATE TABLE, PRIMARY KEY, FOREIGN KEY e DEFAULT.  
+
+   __Soft Skills:__ <br>
+✅✅✅✅✅ **Comunicação:** Trabalhei de forma colaborativa com os colegas de equipe, alinhando as entregas de cada parte do projeto e garantindo que todos estivessem na mesma página. A comunicação também foi essencial no contato com o cliente.  
+✅✅✅✅⬜ **Organização:** Estruturei os códigos e scripts de forma clara, separando responsabilidades e mantendo um padrão que facilitasse a leitura e manutenção futura.  
+
+</details>
 
 ----
 
@@ -1089,16 +1103,18 @@ Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a>
 
 <h2>Sistema de Gerenciamento de Concessionárias | Tecsus</h2>
 
-<h3>Descrição do Projeto</h3>
-O Sistema Tecsus é um sistema de gerenciamento de dashboards.
+<h3>📌 Descrição do Projeto</h3>
+O Sistema Tecsus é um sistema de gerenciamento de dashboards para acompanhar as concessionárias  e visualizar como estão se comportando de acordo com os dados fornecidos pelo cliente.
 
 <h4><li><b>Desafio</b></li></h4>
         <p align="justify">
         A TecSUS realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a uma concessionária de abastecimento. A Tecsus possuem uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, a empresa tem interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado.
         </p>
 
-<details>
-<summary>Tecnologias aplicadas</summary>
+
+<summary><h2>💻 Tecnologias aplicadas</h2></summary>
+
+<details><summary>Saiba  mais</summary>
 <img src="https://www.digics.si/wp-content/uploads/2020/09/spring_boot_logo.png" width="300" height="150">
 
 </p>
@@ -1123,13 +1139,16 @@ O Sistema Tecsus é um sistema de gerenciamento de dashboards.
          <p align="justify">
          Segundo <a href="https://www.danielimamura.com.br/manual-completo-do-mysql-workbench/">Danieli Mamura</a> MySQL Workbench é a ferramenta oficial do MySQL. É um ambiente completo que permite além de realizar consultas, criar diagramas e trabalhar com engenharia reversa.Utilizamos para o desenvolvimento do DDL das tabelas que utilizamos em nossa aplicação.
          </p>
-         </details>
+</details>
+
+
 
 <h3>Contribuições pessoais</h3>
 
 
-<details>
-    <summary>Documentação do Readme do PBI</summary>
+<details><summary>Saiba mais</summary>
+
+**Documentação do Readme do PBI**
 
   __docs: Documentação do Readme do PBI:__
    
@@ -1144,38 +1163,210 @@ As principais fontes de dados são baseadas nas quatro planilhas fornecidas pelo
 ```
 
 
-<a href=https://github.com/Data-Team23/Tecsus-backend>Acesse aqui o repositório</a>
+<a href=https://github.com/Data-Team23/Tecsus-backend/tree/main/tecsus/power_bi>Acesse aqui o repositório</a>
 
-</details>
+**Apoio na analise dos dados**
 
+Como parte da equipe participei do processo de estruturação da modelagem junto com meus colegas e assim identificamos colunas e tambpem fizemos uma etapa de entendimento junto em uma reunião com o cliente assim ficou mais claro  e podemos desenvolver com maior autonomia e conhecimento dos dados.
 
+**DEVOPS - Qualidade de Software**
 
+Fui responsável por estruturar uma das etapas no DEVOPS que foi Qualidade de Software, eu utilizei do aplicativo do SonarQUBE no CI/CD que depois que o projeto passava ele varria algumas partes importantes que eu defini que deveriam ser testadas e assim se houvesse falha ele não passava no teste e assim não fazia o PR.
 
- <details>
-    <summary>Metodologia Ágil</summary>
-<p>Eu pude contribuir como Desenvolvedora na parte de versionamento do Dashboard.
-Sendo as atividades desempenhadas:
 </p>
  
 
-</details>
-
-<h3>Lições Aprendidas</h3>
-
+<h3>📚 Lições Aprendidas</h3>
 
 <p>
-Como Desenvolvedora pude me desenvolver em Raciocínio Lógico e aprender mais sobre Spring Boot e ver como utilizá-lo para o desenvolvimento de projetos.E além da parte do BackEnd pude me desenvolver mais focada em Banco de Dados utilizando os conhecimentos passados em sala de aula e poder aplicar para desevolver a Modelagem dos dados.
+Como Desenvolvedora, tive um desafio de desenvolver meu primeiro dashboard no power bi e isso me desafiou a buscar conhecimentos e também conhecer mais dos dados que o cliente nos apresentou.
 
+Durante esse projeto, também desenvolvi habilidades comportamentais importantes, como organização e proatividade, que foram essenciais para manter o foco nas entregas e colaborar ativamente com o time de desenvolvimento.
 
-   __- Hard Skills:__ <br>
-   Java (Spring Boot) <br>
-   Modelagem em Banco de Dados
+Durante esse projeto, aprimorei minhas habilidades em:
 
-
-   __- Soft Skills:__ <br>
-   Organização <br>
-   Proatividade
+- Desenvolvimento do relatório no Power BI  
+- Apoio na Modelagem de dados  
+- Organização no processo de desenvolvimento  
+- Proatividade na busca por soluções e melhorias
 </p>
 
+</details>
+
+
+   __Hard Skills:__ <br>
+✅✅✅✅⬜ **Modelagem de Dados (DDL)**
+Apoiei na criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de constraints, foreign keys e relacionamentos entre tabelas como endereco, cliente e requisicao e no entendimento dos dados e do negócio.  
+✅✅✅⬜⬜ **Power BI**
+Utilizei o power BI para desenvolvimento do dashboard no power BI.  
+✅✅✅⬜⬜ **SonarQUBE** Utilizei do SonarQUBE para o desenvolvimento da etapa no DEVOPS de Qualidade de Software e depois apresentei a sala o que foi aplicado no nosso projeto.
+
+   __Soft Skills:__ <br>
+✅✅✅✅✅ **Aprendizado Contínuo:** Busco aplicar o que aprendo na faculdade e nos estudos no projeto na API e foram essesciais para toda a etapa do inicio ao fim, buscando auxiliio com colegas e professores quando necessário.  
+✅✅✅⬜⬜ **Resiliência:** Mesmo diante da  dificuldade em entender e desenvolver algumas partes do projeto me mantive resiliente assim buscando sempre a qualidade.
 
 </details>
+
+
+----
+
+<details><summary>6º semestre</summary>
+
+
+<h3> 6º semestre - 2/2024 </h3>
+
+Parceiro Acadêmico: <a href="https://spcgrafeno.com.br/">SPC  Grafeno</a>
+
+
+<h4>Link do repositório:</h4>
+
+<p align="left">
+ <a href="https://github.com/Data-Team23/SPC-Grafeno">Acesse aqui</a>
+</p>
+
+<div align="center">
+
+<img src="spc_grafeno.jpeg" width="300" height="150">
+
+
+
+</div>
+
+
+
+<h2>SPC Grafeno</h2>
+
+<h3>📌  Descrição do Projeto</h3>
+Este projeto tem como foco o desenvolvimento de produtos voltados ao mercado financeiro, utilizando métodos de aprendizagem de máquina. A partir da análise de dados históricos de ativos e operações, busca-se gerar insights e soluções que contribuam para a inovação e eficiência da registradora. A proposta será validada por uma prova de conceito, evidenciando seus benefícios e aplicabilidade no setor.
+
+<h4><li><b>Desafio</b></li></h4>
+        <p align="justify">
+       O projeto visa desenvolver produtos financeiros inovadores para uma registradora de ativos, utilizando machine learning. A partir de dados históricos de ativos e transações, serão aplicadas técnicas para identificar padrões, prever tendências e avaliar riscos. A solução será apresentada em uma prova de conceito, com relatório e apresentação explicando sua aplicação e benefícios para a empresa e seus clientes.
+	   </p>
+
+
+
+
+
+<summary><h2>💻 Tecnologias aplicadas</h2></summary>
+
+<details><summary>Saiba  mais</summary>
+
+<img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" width="150" height="150">
+
+</p>
+          <a href="https://www.python.org/">Python</a>
+          <p align="justify">
+         O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).No projeto foi utilizado para o desenvolvimento da IA e foi um dos requisitos especificados pelo cliente, então decidimos desenvolver nessa linguagem. </p>
+
+
+<img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="150" height="150">
+
+<br>
+
+</p>>
+        <a href="https://www.mongodb.com/?msockid=1adf5fbf68f562430e094bd969236316">MongoDB</a>
+        <p align="justify">
+         O MongoDB é um banco de dados NoSQL que armazena dados em formato JSON/BSON (parecido com um dicionário do Python). Ele não usa tabelas como os bancos relacionais (como MySQL ou PostgreSQL), mas sim coleções de documentos.Foi também um dos requisitos do cliente e também do professor da matéria de Banco de Dados não Estruturados. </p>
+
+<img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="210" height="100">
+
+<br>
+
+</p>>
+        <a href="https://www.djangoproject.com/">django</a>
+        <p align="justify">
+        O Django é um framework web de alto nível para a linguagem Python. Ele facilita o desenvolvimento de aplicações web, fornecendo muitas ferramentas prontas, como autenticação, controle de URL, templates e banco de dados. Ele foi projetado para ser rápido, seguro e fácil de usar. </p>
+
+</details>
+
+
+<h2>Contribuições pessoais</h2>
+
+
+<details><summary>Saiba mais</summary>
+
+**Modelo de Classificação - Machine Learning**
+
+
+Como desenvolvedora , fiz um modelo de classificação mas não foi utilizado 100% do código , fiz em conjunto com uma colega basicamente o modelo tem como objetivo prever se o pagamento de uma nota fiscal será feito no prazo ou com atraso, utilizando como base características da própria nota e informações adicionais.
+
+
+Abaixo segue uma parte do script:
+
+```
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Modelo de Classificação\n",
+    "\n",
+    "Este modelo tem como  objetivo prever se o pagamento de uma nota fiscal será feito no prazo ou com atraso, utilizando como base características da própria nota e informações adicionais.\n",
+    "\n",
+    "O modelo utiliza um classificador Random Forest, que é uma técnica de aprendizado supervisionado amplamente usada para problemas de classificação binária."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Preparação dos dados: Inclui a transformação de datas e variáveis categóricas em formato numérico, como o tempo entre a data de criação e a data de vencimento da nota, e a aplicação de One-Hot Encoding para variáveis categóricas como o tipo de serviço e o estado da nota.\n",
+    "\n",
+    "Criação da variável alvo: A variável-alvo é definida com base no status de vencimento da nota, onde 1 indica que a nota está vencida e 0 que está no prazo.\n",
+    "\n",
+    "Treinamento do modelo: O modelo foi treinado utilizando 80% dos dados para treino e 20% para teste, tanto em um cenário com quanto sem a variável de localização do pagamento (payment_place), para avaliar seu impacto na previsão.\n",
+    "\n",
+    "Avaliação do modelo: O desempenho do modelo foi avaliado utilizando as métricas de acurácia e AUC-ROC, com o objetivo de determinar a eficácia do modelo em prever corretamente o status de vencimento das notas."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 63,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "from sklearn.model_selection import train_test_split\n",
+    "from sklearn.ensemble import RandomForestClassifier\n",
+    "from sklearn.metrics import accuracy_score, roc_auc_score"
+   ]
+  },
+```
+
+
+
+**Modelagem de Dados**
+
+
+Como desenvolvedora eu fiz a estruturação do modelo DER e Lógico do banco de dados, para que fosse utilizado como norte para o projeto por mais que nós não utilizamos o modelo de banco de dados relacional, usamos o MongoDB seja não relacional.
+
+Abaixo segue uma parte do script do DDL:
+
+
+```
+CREATE TABLE participants (
+    id VARCHAR(250) PRIMARY KEY,
+    name VARCHAR(250),
+    state  VARCHAR(250),
+    contact_phone_number  VARCHAR(250),
+    document_number  VARCHAR(250),
+    authorized_third_party_id  VARCHAR(250),
+    company_name  VARCHAR(250),
+    kind  VARCHAR(250),
+    paymaster_id  VARCHAR(250),
+    FOREIGN KEY (authorized_third_party_id) REFERENCES authorized_third_parties(id),
+    FOREIGN KEY (paymaster_id) REFERENCES paymasters(id)
+);
+
+CREATE TABLE fk_authorized_third_party_participants (
+    authorized_third_party_id  VARCHAR(250),
+    participant_id  VARCHAR(250),
+    PRIMARY KEY (authorized_third_party_id, participant_id),
+    FOREIGN KEY (authorized_third_party_id) REFERENCES authorized_third_parties(id),
+    FOREIGN KEY (participant_id) REFERENCES participants(id)
+);
+
+```
+
