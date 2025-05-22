@@ -1370,3 +1370,16 @@ CREATE TABLE fk_authorized_third_party_participants (
 
 ```
 
+</details>
+
+
+   __Hard Skills:__ <br>
+✅✅✅✅⬜ **Modelagem de Dados (DDL)**
+Apoiei na criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de constraints, foreign keys e relacionamentos entre tabelas como endereco, cliente e requisicao e no entendimento dos dados e do negócio.  
+✅✅⬜⬜⬜ **Machine Learning**
+Utilizei o conteúdo aprendido em sala de aula com o professor Mineda para o desenvolvimento do Modelo de Classificação que fiz em conjunto com minha colega Ariane patra identificação de pagamento de notas fiscais atrasadas.  
+
+
+   __Soft Skills:__ <br>
+✅✅✅✅✅ **Colaboração e Trabalho em Equipe:** Durante o desenvolvimento do projeto, atuei de forma colaborativa na construção do modelo de machine learning, compartilhando responsabilidades com colegas e integrando decisões técnicas de acordo com os requisitos do cliente e da disciplina, o que reforçou minhas habilidades de colaboração e trabalho em equipeo.  
+✅✅✅⬜⬜ **Resiliência:** Mesmo diante da  dificuldade em entender e desenvolver algumas partes do projeto me mantive resiliente assim buscando sempre a qualidade.
