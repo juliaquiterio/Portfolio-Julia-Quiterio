@@ -70,7 +70,7 @@ Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Pro
 
 <div align="center">
 
-<img src="mo_viagem.png" alt="Grupo Cachinhos" width="300" height="290">
+<img src="imagens/mo_viagem.png" alt="Grupo Cachinhos" width="300" height="290">
 
 
 </div>
@@ -362,7 +362,7 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
 <h2>💻 Tecnologias aplicadas</h2>
 
 <details><summary>Saiba  mais</summary>
-<img src="java.png" width="150" height="150">
+<img src="imagens/java.png" width="150" height="150">
 
 
 </p>
@@ -370,14 +370,14 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
           <p align="justify">
          Java é uma linguagem de programação orientada a objetos, lançada em 1995, conhecida por ser multiplataforma graças à JVM. É usada em aplicativos web, móveis e sistemas corporativos, valorizada por sua segurança e robustez. No projeto foi utilizado com um dos requisitos especificados e foi a principal linguagem para construção da aplicacão web. Abaixo tenho listadas as bibliotecas que utilizamos: </p>
 
-<img src="phpadmin.png" width="150" height="100">
+<img src="imagens/phpadmin.png" width="150" height="100">
 
 <a href="https://www.phpmyadmin.net/">PHPAdmin</a>
           <p align="justify">
          PHPAdmin é uma ferramenta de administração de bancos de dados MySQL ou MariaDB baseada na web, escrita em PHP. Ela permite gerenciar facilmente bancos de dados, tabelas, colunas, registros e usuários através de uma interface amigável, sem necessidade de comandos SQL complexos. Usamos para manipular as consultas no banco de dados. </p>
 
 
-<img src="mysql.png" width="150" height="150">
+<img src="imagens/mysql.png" width="150" height="150">
 
 
 <a href="https://www.mysql.com/products/workbench/">MySQL Workbench</a>
@@ -385,7 +385,7 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
          O MySQL Workbench é uma ferramenta gráfica oficial para gerenciar bancos de dados MySQL. Ele facilita tarefas como criação de tabelas, execução de consultas, backup e modelagem de dados com diagramas ER, sendo muito usado para administrar e visualizar bancos de dados. </p>
 
 
-<img src="oracle.png" width="150" height="100">
+<img src="imagens/oracle.png" width="150" height="100">
 
 
 <a href="https://www.oracle.com/br/database/">Oracle</a>
@@ -637,7 +637,7 @@ Durante esse projeto, aprimorei minhas habilidades em:
 </p>
 
 
-[🔗 Clique para ver demonstração em vídeo](Tela_Candidatos.mp4)
+[🔗 Clique para ver demonstração em vídeo](imagens/Tela_Candidatos.mp4)
 
 
 
@@ -912,7 +912,7 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
 <summary><h2>💻 Tecnologias aplicadas</h2></summary>
 
 <details><summary>Saiba  mais</summary>
-<img src="java.png" width="150" height="150">
+<img src="imagens/java.png" width="150" height="150">
 
 
 </p>
@@ -920,20 +920,20 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
           <p align="justify">
          Java é uma linguagem de programação orientada a objetos, lançada em 1995, conhecida por ser multiplataforma graças à JVM. É usada em aplicativos web, móveis e sistemas corporativos, valorizada por sua segurança e robustez. No projeto foi utilizado com um dos requisitos especificados e foi a principal linguagem para construção da aplicacão web. Abaixo tenho listadas as bibliotecas que utilizamos: </p>
 
-<img src="js.png" width="150" height="100">
+<img src="imagens/js.png" width="150" height="100">
 
 <a href="https://www.javascript.com/">JavaScript</a>
           <p align="justify">
          JavaScript é uma linguagem de programação usada para criar páginas da web interativas. É leve, dinâmica e funciona tanto no frontend quanto no backend. É essencial no desenvolvimento web, sendo compatível com navegadores e suportando frameworks como React e Angular.
 
-<img src="mysql.png" width="150" height="150">
+<img src="imagens/mysql.png" width="150" height="150">
 
 
 <a href="https://vuejs.org/">VUE</a>
           <p align="justify">
         Vue.js é um framework JavaScript progressivo usado para construir interfaces de usuário e aplicações web dinâmicas. É leve, fácil de aprender e foca em componentes reutilizáveis, facilitando a integração com projetos existentes. Ele combina simplicidade com recursos avançados, como gerenciamento de estado e roteamento, por meio de bibliotecas adicionais.
 
-<img src="html.png" width="150" height="100">
+<img src="imagens/html.png" width="150" height="100">
 
 
 <p>HTML</p>
@@ -941,7 +941,7 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
          HTML (Hypertext Markup Language) é uma linguagem de marcação de texto que serve para criar páginas web.
 		 
 		 
-<img src="oracle.png" width="150" height="100">
+<img src="imagens/oracle.png" width="150" height="100">
 
 
 <a href="https://www.oracle.com/br/database/">Oracle</a>
@@ -1226,7 +1226,7 @@ Parceiro Acadêmico: <a href="https://spcgrafeno.com.br/">SPC  Grafeno</a>
 
 <div align="center">
 
-<img src="spc_grafeno.jpeg" width="300" height="150">
+<img src="imagens/spc_grafeno.jpeg" width="300" height="150">
 
 
 
