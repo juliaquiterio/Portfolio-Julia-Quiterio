@@ -16,12 +16,12 @@ Este repositório apresenta o Portfólio de Projetos Integradores (APIs), desenv
 
 # Sobre mim
 
-<p align="center"><img src="https://raw.githubusercontent.com/juliaquiterio/Portfolio-Julia-Quiterio/main/julia.png" width="300" height="320"></p>
+<p align="center"><img src="imagens\julia.png" width="300" height="320"></p>
 
 
 <br>
 
-Me chamo Júlia Pereira Quitério, tenho 22 anos e sou estudante de Banco de Dados (6º semestre) na Fatec São José dos Campos (SP)| Prof. Jessen Vidal.  Contando um pouco sobre mim, minha paixão pela tecnologia começou no curso técnico de Análise e Desenvolvimento de Sistemas (ADS) na ETEC de Caçapava (SP). Especificamente a matéria de Banco de dados foi o que brilhou meus olhos, e foi ali que descobri meu interesse pela área de Dados e decidi seguir carreira nesse universo na Fatec por ser a mesma entidade que a Etec (CPS - Centro Paula Souza).
+Me chamo Júlia Pereira Quitério, tenho 22 anos e sou estudante de Banco de Dados (6º semestre) na Fatec São José dos Campos (SP)| Prof. Jessen Vidal.  Contando um pouco sobre mim, minha paixão pela tecnologia começou no curso técnico de Desenvolvimento de Sistemas (DS) na ETEC de Caçapava (SP). Especificamente a matéria de Banco de dados foi o que brilhou meus olhos, e foi ali que descobri meu interesse pela área de Dados e decidi seguir carreira nesse universo na Fatec por ser a mesma entidade que a Etec (CPS - Centro Paula Souza).
 
 Ao ingressar na Fatec, aprofundei meus conhecimentos e tive a oportunidade de iniciar minha trajetória profissional como estagiária em Dados na mesma empresa que estou hoje, Elo Cartões uma empresa especializada em meios de pagamento e 100% brasileira. Fui efetivada 1 ano após o estágio e hoje como Analista de Dados trabalho com SQL, DBT (data build tools), automações, modelagem e estruturação de dados, inteligência de negócios, entre outros, onde aplico e aprimoro diariamente minhas habilidades que adquiri principalmente na faculdade.
 
@@ -47,7 +47,7 @@ Sou apaixonada pelo mundo dos dados, mas também possuo amplo conhecimento em te
 * CSS
 * Pacote Office
 * Metodologia Scrum
-* Ferramenta de Gestão (Teams, Slack, Jira)
+* Ferramenta de Gestão (Teams, Slack, Jira, Azure)
 
 <br>
 
@@ -86,7 +86,8 @@ Mó Viagem é uma assistente virtual feita em aplicação web desenvolvida na li
 
 <h4><li><b>Desafio</b></li></h4>
         <p align="justify">
-       O professor Fabiano Sabha, que representa o nosso cliente, propôs o desafio de criar uma assistente virtual utilizando python como linguagem principal, ficando a critério do Grupo do API escoher a finalidade para tal.
+       Fomos apresentados a um problema que causava dificuldade de organização nas viagens pelos turistas o que acabava causando frustação e um sentimento de desconforto em um momento que deveria ser leve e trazer diversão e lazer. 
+       Em resposta ao desafio desenvolvemos em parceria com o nosso parceiro, o professor Fabiano Sabha, criando uma assistente virtual utilizando python como linguagem principal.
         </p>
 
 
@@ -119,13 +120,14 @@ Mó Viagem é uma assistente virtual feita em aplicação web desenvolvida na li
 </details>
 
 <h2>Contribuições pessoais</h2>
-<details>
-    <summary>Saiba mais</summary>
 
-  __Desenvolvimento do Roteiro e Curiosidades:__
+
+  __Desenvolvimento do Roteiro e Curiosidades:__  
    Como desenvolvedora eu pude lidar com a Tecnologia do Python , utilizando as bibliotecas da Wikipedia, PyAudio,  Re e Webbrower. Utilizei a junção dessas bibliotecas para que o Usuário pudesse saber mais sobre os roteiros das cidades onde ele buscava a partir de uma chamada HTTPS na Wikipedia como referencia. O usuário conseguia ouvir e assim ter uma gama de roteiros em que ele pudesse explorar e saber sobre curiosidades daquele local que ele estava perguntando a Assistente Virtual.
 
 Veja abaixo um exemplo do Script:
+
+<details><summary>Clique aqui</summary>
 
 ```
 #Roteiro de viagens
@@ -268,6 +270,8 @@ Veja abaixo um exemplo do Script:
                 convertFala("Não entendi, poderia repetir")
 ```
 
+</details>
+
 <h2>Lições Aprendidas</h2>
 
 
@@ -276,7 +280,7 @@ Como desenvolvedora, tive a oportunidade de aprender, inicialmente, sobre o que 
 </p>
 
 
-</details>
+
 
 
 <br>
@@ -336,7 +340,7 @@ Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juliaquiterio/Portfolio-Julia-Quiterio/main/pro4jobs.png" alt="Grupo Codados" width="300" height="290">
+<img src="imagens\pro4jobs.png" alt="Grupo Codados" width="300" height="290">
 
 
 
@@ -353,7 +357,7 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
 
 <h4><li><b>Desafio</b></li></h4>
         <p align="justify">
-       O cliente da Pro4Tech nos desafiou a criar uma aplicação DeskTop para auxiliar o setor de Recursos Humanos para gerenciar as vagas de emprego da empresa.Foi usada a linguagem Java como principal para o desenvolvimento da aplicação.
+       Fomos desafiados pela Pro4Tech a desenvolver uma aplicação desktop para otimizar o gerenciamento de vagas de emprego no setor de Recursos Humanos. O cliente enfrentava dificuldades com processos manuais, falta de padronização e baixa produtividade. Criamos uma solução robusta, facilitando o cadastro de vagas e o controle eficiente das candidaturas. Utilizamos Java como linguagem principal, pela sua estabilidade, segurança e ampla aceitação. A aplicação resultou em maior organização, redução de erros e melhora no desempenho do RH.
         </p>
 
 
@@ -395,13 +399,14 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
 
 
 <h2>Contribuições pessoais</h2>
-<details>
-    <summary>Saiba mais</summary>
 
-  __Desenvolvimento Relatório do RH:__
+
+  __Desenvolvimento Relatório do RH:__  
    Como desenvolvedora, tive a oportunidade de trabalhar com a tecnologia Java, utilizando-a para desenvolver uma funcionalidade que permite ao usuário acessar o relatório geral das vagas de emprego de forma prática e eficiente.
 
 Veja abaixo um exemplo do Script (Parcial):
+
+<details><summary>Clique aqui</summary>
 
 ```
 /*
@@ -586,10 +591,16 @@ public class RelatorioRH extends javax.swing.JFrame {
 
 ```
 
-  __Organização do Readme do Projeto:__
+</details>
+
+<br>
+
+  __Organização do Readme do Projeto:__  
    Como desenvolvedora eu pude organizar e ccentralizar as principais informações do projeto no Readme para que o usuário que for ler entenda as principais ideias e demais informações  importantes do projeto.
 
 Veja abaixo um exemplo do Script (Parcial):
+
+<details><summary>Clique aqui</summary>
 
 ```
 <h1 align="center"> Grupo Codados</h1>
@@ -620,6 +631,8 @@ Veja abaixo um exemplo do Script (Parcial):
 ...
 ```
 
+</details>
+
 <h2>📚 Lições Aprendidas</h2>
 
 
@@ -640,8 +653,6 @@ Durante esse projeto, aprimorei minhas habilidades em:
 [🔗 Clique para ver demonstração em vídeo](imagens/Tela_Candidatos.mp4)
 
 
-
-</details>
 
 <br>
 
@@ -695,8 +706,7 @@ Sales Vox é uma aplicação web de um Sistema de Gerenciamento de Vendas com fo
 
 <h4><li><b>Desafio</b></li></h4>
         <p align="justify">
-       A empresa Dom Rock lançou um desafio aos alunos do curso de Banco de Dados para que auxiliasse na resolução para um obstáculo que era acompanhar alguns KPI's através de Dashboards de um sistema  de Gerenciamento de Vendas. Como solução geramos uma aplicação WEB  com Spring Boot possibilitando que o usuário acompanhasse 
-o andamento das vendas e pudesse tirar algumas respostas através do que os dados informavam.
+      A empresa Dom Rock desafiou os alunos do curso de Banco de Dados a desenvolver uma solução para facilitar o acompanhamento de KPIs de um sistema de Gerenciamento de Vendas. O principal obstáculo era a dificuldade em visualizar, de forma clara e centralizada, os indicadores que orientavam as decisões comerciais. Como resposta, elaboramos uma aplicação web utilizando o framework Spring Boot, que integra os dados de vendas e os exibe por meio de dashboards interativos e intuitivos. A solução permite que os usuários monitorem o desempenho das vendas, identifiquem tendências e tomem decisões estratégicas com base nas informações apresentadas. O projeto proporcionou maior agilidade, precisão e eficiência na análise dos resultados comerciais.
         </p>
 
 
@@ -732,16 +742,16 @@ o andamento das vendas e pudesse tirar algumas respostas através do que os dado
 
 <h3>Contribuições pessoais</h3>
 
-<details><summary>Saiba mais</summary>
-
 
 **Backend - Rota HTTPs Login do Vendedor**
 
-  __Desenvolvimento da Tela de Login do Vendedor:__
+  __Desenvolvimento da Tela de Login do Vendedor:__  
    Como desenvolvedora eu pude lidar com a Tecnologia do Spring Boot focada no Backend onde usamos juntamente com a Arquitetura Rest podendo criar as rotas para o Login da persona (Vendedor), onde ele poderia acessar a rota permitindo o mesmo acessar a aplicação.
 
 
 Segue o link abaixo das descrições para maior visibilidade:
+
+<details><summary>Clique aqui</summary>
 
 
 ```
@@ -776,7 +786,9 @@ public class VendedorController {
 
 <a href=https://github.com/equipe-vox/api-3sem/tree/main/api>Acesse aqui o repositório</a>
 
+</details>
 
+<br>
 
 
 **Modelagem de dados - DDL**
@@ -785,6 +797,10 @@ __Apoio ao Desenvolvimento do Banco de Dados:__
  Fui responsável por dar o apoio a modelagem de Dados tanto as etapas de DER quanto MER e o DDL. Podendo aplicar os conhecimenro adquiridos em sala de aula.
 
  Segue abaixo um trecho do DDL:
+
+
+<details><summary>Clique aqui</summary>
+
 
  ```
 
@@ -817,11 +833,11 @@ create table cliente(
 ```
 
 
+</details>
 
+<br>
 
-
-
-***Metodologia Ágil**
+**Metodologia Ágil**
 <p>Eu pude contribuir como Product Owner , mais conhecido como PO do nosso grupo Vox. Assim realizando o levantamento dos requisitos que mais faziam sentido. E em paralelo pude contribuir com o Back-end do projeto atuando tanto na parte do Banco de Dados, quanto no código. </br>
 Sendo as atividades desempenhadas:
 </p>
@@ -830,8 +846,10 @@ Sendo as atividades desempenhadas:
 
  Segue o link abaixo das descrições para maior visibilidade:
 
-<a href= https://github.com/equipe-vox/api-3sem#backlog-do-produto>Backlog do Produto</a> •
-<a href= https://github.com/equipe-vox/api-3sem#link-disponivel-do-burndown> Burndown do Produto</a>
+<a href= https://github.com/equipe-vox/api-3sem#backlog-do-produto> • Backlog do Produto</a>  <br>
+<a href= https://github.com/equipe-vox/api-3sem#link-disponivel-do-burndown> • Burndown do Produto</a>
+
+<br>
 
 <h3>📚 Lições Aprendidas</h3>
 <p>
@@ -846,9 +864,6 @@ Durante esse projeto, aprimorei minhas habilidades em:
 - Comunicação e alinhamento com stakeholders
 - Organização e definição de prioridades no papel de PO
 </p>
-
-
-</details>
 
 
  <br>
@@ -887,7 +902,7 @@ Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia</a>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juliaquiterio/Portfolio-Julia-Quiterio/main/Jaia.jpg" width="300" height="290">
+<img src="imagens\Jaia.jpg" width="300" height="290">
 
 
 
@@ -903,7 +918,7 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
 
 <h4><li><b>Desafio</b></li></h4>
         <p align="justify">
-       A plataforma concebida promete oferecer uma experiência intuitiva, capacitando os inspetores a documentar minuciosamente detalhes relevantes e capturar evidências visuais de forma eficaz. Adicionalmente, a geração instantânea de relatórios abastecerá a tomada de decisões embasadas. A Jaia, reconhecendo a necessidade de aprimorar a qualidade e eficiência das inspeções, direcionou seus esforços para o desenvolvimento desse software inovador. O resultado obtido transcendeu as expectativas iniciais, beneficiando não somente a empresa, mas também elevando o padrão das inspeções prediais na esfera urbana, contribuindo, assim, para uma maior segurança e excelência nas estruturas urbanas.
+       A Jaia identificou um problema recorrente nas inspeções prediais: a falta de padronização e agilidade na documentação, o que comprometia a qualidade das avaliações e dificultava a tomada de decisões rápidas e embasadas. Os inspetores enfrentavam dificuldades para registrar informações de forma organizada e reunir evidências visuais com eficiência. Para resolver esse desafio, a empresa direcionou seus esforços para o desenvolvimento de uma plataforma inovadora, capaz de oferecer uma experiência intuitiva e prática. A solução permite aos inspetores documentar minuciosamente os detalhes relevantes, capturar imagens e gerar relatórios instantâneos, otimizando todo o processo. O resultado superou as expectativas, beneficiando a empresa e elevando o padrão das inspeções prediais, promovendo mais segurança e qualidade nas estruturas urbanas.
 	   </p>
 
 
@@ -953,13 +968,17 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
 <h2>Contribuições pessoais</h2>
 
 
-<details><summary>Saiba mais</summary>
+
 <p>Backend</p>
 
   __Desenvolvimento do DDL (Modelagem de dados):__
    Como desenvolvedora eu desenvolvi a modelagem de dados em DDL para que pudessemos ter a integridade e a normalização dos dados.
 
 Veja abaixo um exemplo do Script (Parcial):
+
+
+<details><summary>Clique aqui</summary>
+
 
 ```
 create table endereco(
@@ -987,8 +1006,10 @@ create table requisicao(
 );
 ```
 
+</details>
 
 
+<br>
 
   __Desenvolvimento da classe de Departamento:__
    Como desenvolvedora eu desenvolvi a classe de Departamento. Foi desenvolvido em Java e separado 4 classes, sendo elas:
@@ -1000,6 +1021,10 @@ create table requisicao(
    
 
 Veja abaixo um exemplo do Script (Parcial):
+
+
+<details><summary>Clique aqui</summary>
+
 
 __Departamento Service:__
 
@@ -1040,6 +1065,8 @@ public class DepartamentoController {
 ```
 
 
+</details>
+
 <h3>📚 Lições Aprendidas</h3>
 
 
@@ -1060,8 +1087,6 @@ Durante esse projeto, aprimorei minhas habilidades em:
 
 
 
-
-</details>
 
 <br>
 
@@ -1108,7 +1133,7 @@ O Sistema Tecsus é um sistema de gerenciamento de dashboards para acompanhar as
 
 <h4><li><b>Desafio</b></li></h4>
         <p align="justify">
-        A TecSUS realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a uma concessionária de abastecimento. A Tecsus possuem uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, a empresa tem interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado.
+        A TecSUS enfrentava um problema relacionado ao processamento e à gestão de grandes volumes de dados provenientes de contas de energia, água e gás, armazenados de forma desestruturada em arquivos de texto. Essa situação dificultava consultas rápidas, análises técnicas e financeiras, além de comprometer a identificação de oportunidades para redução de custos e ajustes contratuais. Diante desse desafio, nossa equipe desenvolveu uma solução utilizando técnicas de ETL (Extract, Transform, Load), organizando e estruturando os dados em um banco relacional. Também implementamos ferramentas de visualização de dados, permitindo análises mais precisas e ágeis. A solução proporcionou maior eficiência nos processos, melhorando a qualidade das informações e apoiando decisões estratégicas para os clientes da TecSUS.
         </p>
 
 
@@ -1146,12 +1171,15 @@ O Sistema Tecsus é um sistema de gerenciamento de dashboards para acompanhar as
 <h3>Contribuições pessoais</h3>
 
 
-<details><summary>Saiba mais</summary>
+
 
 **Documentação do Readme do PBI**
 
   __docs: Documentação do Readme do PBI:__
    
+Segue abaixo uma parte do script:
+
+<details><summary>Clique aqui</summary>
 
 ```
 # Documentação | Dashboard Power BI
@@ -1165,6 +1193,10 @@ As principais fontes de dados são baseadas nas quatro planilhas fornecidas pelo
 
 <a href=https://github.com/Data-Team23/Tecsus-backend/tree/main/tecsus/power_bi>Acesse aqui o repositório</a>
 
+</details>
+
+<br>
+
 **Apoio na analise dos dados**
 
 Como parte da equipe participei do processo de estruturação da modelagem junto com meus colegas e assim identificamos colunas e tambpem fizemos uma etapa de entendimento junto em uma reunião com o cliente assim ficou mais claro  e podemos desenvolver com maior autonomia e conhecimento dos dados.
@@ -1172,6 +1204,8 @@ Como parte da equipe participei do processo de estruturação da modelagem junto
 **DEVOPS - Qualidade de Software**
 
 Fui responsável por estruturar uma das etapas no DEVOPS que foi Qualidade de Software, eu utilizei do aplicativo do SonarQUBE no CI/CD que depois que o projeto passava ele varria algumas partes importantes que eu defini que deveriam ser testadas e assim se houvesse falha ele não passava no teste e assim não fazia o PR.
+
+Link da documentação da página com a especificação do DevOps: <a href=https://github.com/Data-Team23/Tecsus/wiki/DevOps#garantia-da-qualidade-de-software>Acesse aqui</a>
 
 </p>
  
@@ -1190,8 +1224,6 @@ Durante esse projeto, aprimorei minhas habilidades em:
 - Organização no processo de desenvolvimento  
 - Proatividade na busca por soluções e melhorias
 </p>
-
-</details>
 
 
    __Hard Skills:__ <br>
@@ -1241,7 +1273,7 @@ Este projeto tem como foco o desenvolvimento de produtos voltados ao mercado fin
 
 <h4><li><b>Desafio</b></li></h4>
         <p align="justify">
-       O projeto visa desenvolver produtos financeiros inovadores para uma registradora de ativos, utilizando machine learning. A partir de dados históricos de ativos e transações, serão aplicadas técnicas para identificar padrões, prever tendências e avaliar riscos. A solução será apresentada em uma prova de conceito, com relatório e apresentação explicando sua aplicação e benefícios para a empresa e seus clientes.
+      A registradora de ativos enfrentava o desafio de melhorar a análise de grandes volumes de dados financeiros, com dificuldades para identificar padrões, prever tendências e avaliar riscos de forma automatizada. Esse cenário limitava a criação de produtos financeiros mais sofisticados e estratégicos. Diante disso, nossa equipe desenvolveu uma solução baseada em técnicas de machine learning, utilizando dados históricos de ativos e transações para gerar previsões e insights relevantes. O resultado foi consolidado em uma prova de conceito, acompanhada de relatório e apresentação, demonstrando a aplicação prática e os benefícios para a empresa e seus clientes, como maior assertividade nas decisões e inovação nos produtos oferecidos.
 	   </p>
 
 
@@ -1284,7 +1316,6 @@ Este projeto tem como foco o desenvolvimento de produtos voltados ao mercado fin
 <h2>Contribuições pessoais</h2>
 
 
-<details><summary>Saiba mais</summary>
 
 **Modelo de Classificação - Machine Learning**
 
@@ -1293,6 +1324,8 @@ Como desenvolvedora , fiz um modelo de classificação mas não foi utilizado 10
 
 
 Abaixo segue uma parte do script:
+
+<details><summary>Clique aqui</summary>
 
 ```
 {
@@ -1335,7 +1368,9 @@ Abaixo segue uma parte do script:
   },
 ```
 
+</details>
 
+<br>
 
 **Modelagem de Dados**
 
@@ -1344,6 +1379,8 @@ Como desenvolvedora eu fiz a estruturação do modelo DER e Lógico do banco de 
 
 Abaixo segue uma parte do script do DDL:
 
+
+<details><summary>Clique aqui</summary>
 
 ```
 CREATE TABLE participants (
@@ -1373,6 +1410,8 @@ CREATE TABLE fk_authorized_third_party_participants (
 </details>
 
 
+<br>
+
    __Hard Skills:__ <br>
 ✅✅✅✅⬜ **Modelagem de Dados (DDL)**
 Apoiei na criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de constraints, foreign keys e relacionamentos entre tabelas como endereco, cliente e requisicao e no entendimento dos dados e do negócio.  
@@ -1383,3 +1422,23 @@ Utilizei o conteúdo aprendido em sala de aula com o professor Mineda para o des
    __Soft Skills:__ <br>
 ✅✅✅✅✅ **Colaboração e Trabalho em Equipe:** Durante o desenvolvimento do projeto, atuei de forma colaborativa na construção do modelo de machine learning, compartilhando responsabilidades com colegas e integrando decisões técnicas de acordo com os requisitos do cliente e da disciplina, o que reforçou minhas habilidades de colaboração e trabalho em equipeo.  
 ✅✅✅⬜⬜ **Resiliência:** Mesmo diante da  dificuldade em entender e desenvolver algumas partes do projeto me mantive resiliente assim buscando sempre a qualidade.
+
+</details>
+
+<br>
+
+<br>
+
+**Conclusão**
+
+Todos os projetos APIs me permitiu aplicar de forma prática os conhecimentos adquiridos no curso de Banco de Dados, desenvolvendo soluções que atenderam a demandas reais de diferentes empresas. Foram elaboradas aplicações desktop e web, além de sistemas que utilizaram técnicas de ETL, visualização de dados e machine learning para otimizar processos e apoiar a tomada de decisões.
+
+Os desafios enfrentados possibilitaram o aprimoramento de habilidades em modelagem de dados, integração de sistemas e desenvolvimento de soluções eficientes. Dessa forma, todos os trabalhos contribuíram para consolidar a minha formação acadêmica, demonstrando a aplicação direta dos conceitos estudados em contextos profissionais.
+
+Agradeço a todos os professores que me ajudaram nesta jornada desde o início até o fim do curso e a cada troca, ensino e paciência que me possibilitou ser a profissional que sou hoje, vocês contribuiram muito para minha jornada até aqui e levarei não apenas os ensinamentos técnicos, mas também os valores e princípios transmitidos, que certamente nortearão minha atuação no mercado e minha evolução contínua.
+
+<br>
+
+<center>
+  <img src="imagens/fatec_sjc.png" width="200" height="100">
+</center>
