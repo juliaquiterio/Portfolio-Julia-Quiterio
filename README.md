@@ -103,21 +103,37 @@ Mó Viagem é uma assistente virtual feita em aplicação web desenvolvida na li
           <p align="justify">
          O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).No projeto foi utilizado com um dos requisitos especificados e foi a principal linguagem para construção da aplicacão web. Abaixo tenho listadas as bibliotecas que utilizamos: </p>
 
-<h3>Bibliotecas Python</h3>
+<h3>Tecnologias utilizadas no Mó Viagem</h3>
 
-- **SpeechRecognition**: Reconhece e interpreta fala humana.
-- **PyAudio**: Interface Python para trabalhar com áudio.
-- **API OpenWeather**: Acessa dados meteorológicos em tempo real.
-- **Pandas**: Analisa e manipula dados.
-- **Wikipédia**: Busca e recupera conteúdo da Wikipédia.
-- **Requests**: Simplifica requisições HTTP.
-- **Translator**: Traduz textos entre idiomas.
-- **Holidays**: Informa sobre feriados em diversos países.
-- **Re**: Pesquisa e manipula texto com expressões regulares.
-- **Webbrowser**: Abre URLs no navegador padrão.
-- **Pyttsx3**: Síntese de voz no Python.
+<ul>
+  <li><strong>time</strong>: adiciona pausas entre mensagens, simulando efeitos de digitação e tornando a interação mais humanizada.</li>
+  <li><strong>os</strong>: limpa a tela do terminal, melhorando a apresentação visual da assistente.</li>
+  <li><strong>random</strong>: gera respostas aleatórias, deixando a conversa mais variada e natural.</li>
+</ul>
+
+<h3>Elementos de Estrutura</h3>
+
+<ul>
+  <li><strong>Classes</strong>: organizam as funcionalidades da assistente de forma modular e reutilizável.</li>
+  <li><strong>Funções</strong>: executam ações específicas, como responder ou sugerir destinos turísticos.</li>
+  <li><strong>Input/Output</strong>: permitem interação direta com o usuário via terminal (<code>input()</code> e <code>print()</code>).</li>
+  <li><strong>Listas</strong>: armazenam possíveis respostas e destinos, utilizadas com <code>random.choice()</code>.</li>
+</ul>
+
+<h3>Motivo das Escolhas</h3>
+
+<ul>
+  <li>Uso de bibliotecas nativas, simples e eficientes.</li>
+  <li>Código modular e fácil de manter.</li>
+  <li>Interação dinâmica e amigável.</li>
+  <li>Portabilidade: funciona em qualquer sistema com Python instalado.</li>
+</ul>
+
 
 </details>
+
+
+-------
 
 <h2>Contribuições pessoais</h2>
 
@@ -292,7 +308,7 @@ Pude aplicar os conhecimentos adquiridos tanto em sala de aula quanto por conta 
 
 
 ✅✅✅✅⬜ **Lógica de Programação**  
-Foi fundamental para todo o desenvolvimento, auxiliando na compreensão do problema e na escrita de um código mais limpo, organizado e eficiente.  
+Foi fundamental para todo o desenvolvimento, auxiliando na compreensão do problema e na escrita de um código mais limpo, organizado e eficiente. Junto com meus colegas nós estudamos juntos os pontos de dificuldades e buscamos conteudos na internet para ajudar na compreensão.  
 
 
 ✅✅✅✅✅ **Metodologia Ágil | Scrum**  
@@ -303,7 +319,7 @@ Adotei essa metodologia na gestão do projeto junto à minha equipe, organizando
    <h3>Soft Skills:</h3>
 
 ✅✅✅✅✅ **Organização**  
-Pude usar essa minha soft skill para me organizar nas minhas atividades e nos meus estudos e isso foi essencial para todo o desenvolvimento do projeto.  
+Pude usar essa minha soft skill para me organizar nas minhas atividades e nos meus estudos e isso foi essencial para todo o desenvolvimento do projeto. Organização foi utilizada na divisão de tarefas e eu me anteciapava sempre nos temas aos quais estava planejado na sprint.  
 
 
 ✅✅✅✅⬜ **Proatividade**  
@@ -311,7 +327,7 @@ Fui proativa em saber reconhecer que se minha equipe estava precisando de apoio 
 
 
 ✅✅✅✅✅ **Trabalho em equipe**  
-Esse foi um dos tópicos mais importantes pois sem ele não seria possível fazermos uma entrega tão eficiente do nosso produto. Soube lidar com situações e agirmos em grupo nas atividades, assim conseguimos conciliá-la e entregá-las com eficiência.  
+Esse foi um dos tópicos mais importantes pois sem ele não seria possível fazermos uma entrega tão eficiente do nosso produto. Soube lidar com situações e agirmos em grupo nas atividades, assim conseguimos conciliá-la e entregá-las com eficiência. Eu e minha equipe juntamos nossos conhecimentos e conseguimos finalizar o projeto com excelência.   
 
 
 
@@ -366,37 +382,28 @@ Pro4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
 <h2>💻 Tecnologias aplicadas</h2>
 
 <details><summary>Saiba  mais</summary>
+
+<h2>Tecnologias Utilizadas no PRO4Jobs</h2>
+
 <img src="imagens/java.png" width="150" height="150">
 
 
-</p>
-          <a href="https://www.python.org/">JAVA</a>
-          <p align="justify">
-         Java é uma linguagem de programação orientada a objetos, lançada em 1995, conhecida por ser multiplataforma graças à JVM. É usada em aplicativos web, móveis e sistemas corporativos, valorizada por sua segurança e robustez. No projeto foi utilizado com um dos requisitos especificados e foi a principal linguagem para construção da aplicacão web. Abaixo tenho listadas as bibliotecas que utilizamos: </p>
+<h3>Java</h3>
+<p><strong>Propósito:</strong> Linguagem principal para o desenvolvimento da aplicação desktop.</p>
+<p><strong>Justificativa:</strong> Escolhida por ser a linguagem designada para o segundo semestre do curso de Banco de Dados, facilitando a integração com o banco de dados e atendendo aos requisitos acadêmicos.</p>
 
-<img src="imagens/phpadmin.png" width="150" height="100">
+<h3>Banco de Dados Relacional</h3>
+<p><strong>Propósito:</strong> Armazenar informações sobre vagas de emprego, candidatos e usuários do setor de Recursos Humanos.</p>
+<p><strong>Justificativa:</strong> A utilização de um banco de dados relacional permite uma estrutura organizada e eficiente para o gerenciamento dos dados, facilitando consultas e operações de CRUD (Create, Read, Update, Delete).</p>
 
-<a href="https://www.phpmyadmin.net/">PHPAdmin</a>
-          <p align="justify">
-         PHPAdmin é uma ferramenta de administração de bancos de dados MySQL ou MariaDB baseada na web, escrita em PHP. Ela permite gerenciar facilmente bancos de dados, tabelas, colunas, registros e usuários através de uma interface amigável, sem necessidade de comandos SQL complexos. Usamos para manipular as consultas no banco de dados. </p>
+<h3>Metodologia Scrum</h3>
+<p><strong>Propósito:</strong> Organizar o desenvolvimento do projeto em ciclos iterativos e incrementais.</p>
+<p><strong>Justificativa:</strong> O Scrum foi adotado para melhorar a produtividade da equipe, permitindo entregas contínuas e adaptáveis às mudanças de requisitos.</p>
 
-
-<img src="imagens/mysql.png" width="150" height="150">
-
-
-<a href="https://www.mysql.com/products/workbench/">MySQL Workbench</a>
-          <p align="justify">
-         O MySQL Workbench é uma ferramenta gráfica oficial para gerenciar bancos de dados MySQL. Ele facilita tarefas como criação de tabelas, execução de consultas, backup e modelagem de dados com diagramas ER, sendo muito usado para administrar e visualizar bancos de dados. </p>
-
-
-<img src="imagens/oracle.png" width="150" height="100">
-
-
-<a href="https://www.oracle.com/br/database/">Oracle</a>
-          <p align="justify">
-         O Oracle Database é um sistema de banco de dados robusto e escalável, projetado para gerenciar grandes volumes de dados em empresas. Ele oferece alta segurança, disponibilidade e suporte para transações complexas, sendo popular em ambientes corporativos. </p>
 </details>
 
+
+--------
 
 <h2>Contribuições pessoais</h2>
 
@@ -659,11 +666,11 @@ Durante esse projeto, aprimorei minhas habilidades em:
 
    __Hard Skills:__ <br>
 ✅✅✅⬜⬜ **JAVA**  
-Pude aplicar os conhecimentos adquiridos em sala de aula sobre a linguagem de programação de JAVA no projeto e foi essencial para que eu pudesse entender mais sobre a linguagem e orientação de objetos.  
+Pude aplicar os conhecimentos adquiridos em sala de aula sobre a linguagem de programação de JAVA no projeto para o desenvolvimento do relatório do RH e foi essencial para que eu pudesse entender mais sobre a linguagem e orientação de objetos.  
 ✅✅✅✅⬜ **Markdown**  
 Utilizei a linguagem de marcação para documentação de todo o nosso projeto e foi muito bom para entender  organizar de forma mais visual todo o escopo.  
 ✅✅✅✅✅**Metodologia Ágil | Scrum**  
-Adotei essa metodologia na gestão do projeto junto à minha equipe, organizando as sprints de forma eficiente. Dessa forma, pude aplicar na prática os conceitos aprendidos em sala de aula e em cursos, garantindo um fluxo de trabalho mais produtivo e estruturado.
+Adotei essa metodologia na gestão do projeto junto à minha equipe, organizando as sprints de forma eficiente. Dessa forma, pude aplicar na prática os conceitos aprendidos em sala de aula e em cursos, garantindo um fluxo de trabalho mais produtivo e estruturado. E eu utilizei para o desenvolvimento da organização do README do projeto o qual eu desenvolvi e organizei 100%. 
    
 
    __Soft Skills:__ <br>
@@ -716,29 +723,66 @@ Sales Vox é uma aplicação web de um Sistema de Gerenciamento de Vendas com fo
 <details><summary>Saiba  mais</summary>
 <img src="https://www.digics.si/wp-content/uploads/2020/09/spring_boot_logo.png" width="300" height="150">
 
-</p>
-          <li><a href="https://spring.io/">Spring Framework</a></li>
-          <p align="justify">
-         Segundo <a href="https://www.treinaweb.com.br/blog/o-que-e-o-spring-boot/">TreinaWeb</a> o Spring Boot é um framework que torna fácil a criação de aplicações Spring autossuficientes e robustas, possibilitando a execução imediata. Contudo isso só é possível por conta da abordagem opinativa sobre a plataforma Spring e bibliotecas de terceiros, que permite ao desenvolvedor gastar o mínimo de tempo possível configurando o projeto, e sim codificando suas regras de negócio. Foi utilizado como o principal framework para o desenvolvimento da aplicação web e foi de grande importância para o mesmo, facilitando o processo ao longo das sprints.</p>
-          <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-1.png" height="150">
-          <li><a href="https://www.figma.com/">Figma</a></li>
-          <p align="justify">
-          Segundo <a href="https://www.alura.com.br/artigos/figma">Alura</a> o Figma é uma plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. O objetivo era o de criar uma ferramenta que trouxesse colaboração entre pessoas e times, permitindo criar um produto para as mais diversas plataformas, mantendo a acessibilidade do sistema. Foi utilizado para o desenvolvimento do Front-end podendo colaborar de forma crucial para o desenvolvimento das telas em geral do projeto.</p>
-          <img src="https://logospng.org/download/react/logo-react-1024.png" height="150">
-          <li><a href="https://react.dev/">React</a></li>
-          <p align="justify">
-          O React, também conhecido como React.js ou ReactJS, é uma biblioteca de código aberto JavaScript amplamente utilizada para construir interfaces de usuário (UI) interativas e dinâmicas. É um componente fundamental no desenvolvimento de aplicativos web modernos e é especialmente popular para a criação de interfaces de usuário de página única (Single Page Applications - SPAs), de acordo
-          <a href="https://kenzie.com.br/blog/react/.">Kenzie</a>. O React foi utilizado também para o desenvolvimento em parte do Front-end assim colaborando com a parte visual utilizando bibliotecas que apoiaram no desenvolvimento dos Dashboards.</p>
-          <img src="https://th.bing.com/th/id/R.55692e7a8d3fa0da6a2325630ad177d1?rik=MPH0G8OKchACqA&pid=ImgRaw&r=0" height="150">
-          <li><a href="https://www.apachefriends.org/pt_br/index.html">XAMPP</a></li>
-          <p align="justify">
-         Segundo  <a href="https://www.techtudo.com.br/noticias/2012/02/o-que-e-xampp-e-para-que-serve.ghtml">TechTudo</a> o XAMPP é um pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL e Apache com suporte as linguagens PHP e Perl. Foi utilizado para acesso ao nosso banco local como um servidor local.</p>
-         <img src="https://th.bing.com/th/id/R.a0d754098a11d27b496dd867e9bcb26e?rik=ktyhKrtGerv2SA&riu=http%3a%2f%2fjcpdev.com%2fwp-content%2fuploads%2f2015%2f06%2fmysql-logo_2800x2800_pixels1.png&ehk=stX862qDhFHMNl5t8sy91A9mlH6zUShTkbwH8E8cxsc%3d&risl=&pid=ImgRaw&r=0" height="150">
-         <li><a href="">MySQL Workbench</a></li>
-         <p align="justify">
-         Segundo <a href="https://www.danielimamura.com.br/manual-completo-do-mysql-workbench/">Danieli Mamura</a> MySQL Workbench é a ferramenta oficial do MySQL. É um ambiente completo que permite além de realizar consultas, criar diagramas e trabalhar com engenharia reversa.Utilizamos para o desenvolvimento do DDL das tabelas que utilizamos em nossa aplicação.
-         </p>
-         </details>
+<h2>Tecnologias Utilizadas no Projeto</h2>
+
+<ul>
+  <li><a href="https://spring.io/">Spring Framework</a></li>
+  <p align="justify">
+    Segundo <a href="https://www.treinaweb.com.br/blog/o-que-e-o-spring-boot/">TreinaWeb</a>, o Spring Boot é um framework que torna fácil a criação de aplicações Spring autossuficientes e robustas, possibilitando a execução imediata. Isso é possível graças à abordagem opinativa sobre a plataforma Spring e bibliotecas de terceiros, permitindo que o desenvolvedor gaste o mínimo de tempo configurando o projeto e mais tempo codificando as regras de negócio. Foi utilizado como o principal framework para o desenvolvimento da aplicação web, facilitando o processo ao longo das sprints.
+  </p>
+
+  <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-1.png" height="150" alt="Logo Figma">
+  <li><a href="https://www.figma.com/">Figma</a></li>
+  <p align="justify">
+    Segundo <a href="https://www.alura.com.br/artigos/figma">Alura</a>, o Figma é uma plataforma colaborativa para construção de design de interfaces e protótipos. Foi utilizado para o desenvolvimento do Front-end, colaborando de forma crucial para o desenvolvimento das telas do projeto.
+  </p>
+
+  <img src="https://logospng.org/download/react/logo-react-1024.png" height="150" alt="Logo React">
+  <li><a href="https://react.dev/">React</a></li>
+  <p align="justify">
+    O React, também conhecido como React.js, é uma biblioteca JavaScript para construir interfaces de usuário interativas e dinâmicas. Foi utilizado para parte do Front-end, especialmente no desenvolvimento visual e na construção dos Dashboards.
+  </p>
+
+  <img src="https://th.bing.com/th/id/R.55692e7a8d3fa0da6a2325630ad177d1?rik=MPH0G8OKchACqA&pid=ImgRaw&r=0" height="150" alt="Logo XAMPP">
+  <li><a href="https://www.apachefriends.org/pt_br/index.html">XAMPP</a></li>
+  <p align="justify">
+    Segundo <a href="https://www.techtudo.com.br/noticias/2012/02/o-que-e-xampp-e-para-que-serve.ghtml">TechTudo</a>, o XAMPP é um pacote com servidores de código aberto, incluindo Apache, MySQL e suporte a PHP e Perl. Foi utilizado como servidor local para acesso ao banco de dados.
+  </p>
+
+  <img src="https://th.bing.com/th/id/R.a0d754098a11d27b496dd867e9bcb26e?rik=ktyhKrtGerv2SA&riu=http%3a%2f%2fjcpdev.com%2fwp-content%2fuploads%2f2015%2f06%2fmysql-logo_2800x2800_pixels1.png&ehk=stX862qDhFHMNl5t8sy91A9mlH6zUShTkbwH8E8cxsc%3d&risl=&pid=ImgRaw&r=0" height="150" alt="Logo MySQL">
+  <li><a href="">MySQL Workbench</a></li>
+  <p align="justify">
+    Segundo <a href="https://www.danielimamura.com.br/manual-completo-do-mysql-workbench/">Danieli Mamura</a>, o MySQL Workbench é a ferramenta oficial do MySQL que permite consultas, criação de diagramas e engenharia reversa. Foi utilizado para o desenvolvimento do DDL das tabelas da aplicação.
+  </p>
+</ul>
+
+
+
+
+<h2>Tecnologias Usadas no Projeto api-3sem</h2>
+
+<h3>Python</h3>
+<p>Linguagem principal utilizada para desenvolvimento da API, por ser simples, versátil e com ampla biblioteca de suporte.</p>
+
+<h3>Flask</h3>
+<p>Framework web leve para construir APIs RESTful. Usado para criar os endpoints que recebem e respondem às requisições HTTP.</p>
+
+<h3>SQLAlchemy</h3>
+<p>ORM (Object-Relational Mapping) para facilitar a interação com o banco de dados relacional. Permite manipular dados como objetos Python, simplificando consultas e transações.</p>
+
+<h3>SQLite</h3>
+<p>Banco de dados relacional utilizado para armazenar os dados do sistema localmente, ideal para projetos de pequeno a médio porte e fácil configuração.</p>
+
+<h3>Marshmallow</h3>
+<p>Biblioteca para serialização e validação de dados, garantindo que as entradas e saídas da API estejam no formato correto.</p>
+
+<h3>Pytest</h3>
+<p>Framework de testes usado para garantir a qualidade do código por meio de testes automatizados.</p>
+
+ </details>
+        
+
+-------
 
 <h3>Contribuições pessoais</h3>
 
@@ -868,17 +912,19 @@ Durante esse projeto, aprimorei minhas habilidades em:
 
  <br>
 
-   __Hard Skills:__ <br>
-✅✅✅✅⬜ **JAVA**  
-Pude aplicar os conhecimentos adquiridos em sala de aula sobre a linguagem de programação de JAVA no projeto e foi essencial para que eu pudesse entender mais sobre a linguagem e orientação de objetos.  
-✅✅✅✅✅ **Markdown**  
-Utilizei a linguagem de marcação para documentação de todo o nosso projeto e foi muito bom para entender  organizar de forma mais visual todo o escopo.  
+__Hard Skills:__
+✅✅✅✅⬜ <strong>Java</strong><br>
+Durante a sprint, apliquei os conhecimentos de Java aprendidos em sala de aula para desenvolver parte da lógica do sistema no back-end, utilizando conceitos de orientação a objetos. Isso me ajudou a compreender melhor a estrutura da linguagem e como aplicá-la na prática, especialmente integrando com o banco de dados.<br>
+✅✅✅✅✅ <strong>Markdown</strong><br>
+Fui responsável por organizar a documentação do projeto utilizando Markdown no GitHub. Estruturei os tópicos de forma clara e objetiva, o que facilitou a compreensão do escopo pelas outras pessoas do grupo e também pelo professor/orientador.<br>
+✅✅✅✅⬜ <strong>Modelagem de Dados (DDL)</strong><br>
+Contribuí com a modelagem do banco de dados, desde o DER e MER até a implementação do DDL em SQL. Essa tarefa exigiu atenção aos relacionamentos entre as entidades, o que foi fundamental para garantir a integridade e funcionalidade da base de dados no sistema.
+</p>
 
-
-   __Soft Skills:__ <br>
-✅✅✅✅✅ **Organização:** A comunicação foi essencial para que pudéssemos ter um diálogo aberto para com a equipe e com o nosso cliente, onde utilizamos o Slack e as aulas para retirar as dúvidas.  
-✅✅✅⬜⬜ **Proatividade:** Tive a proatividade de iniciar tasks que estavam travadas e  ajudei meus colegas que estavam com dificuldades para o desenvolvimento.  
- 
+__Soft Skills:__
+✅✅✅✅✅ <strong>Organização:</strong> Atuei como Product Owner da equipe, sendo responsável por organizar o backlog e priorizar as entregas de maior valor a cada sprint. Também criei o burndown no Excel para acompanhar o andamento das tarefas, garantindo que o time estivesse alinhado com os prazos.<br>
+✅✅✅⬜⬜ <strong>Proatividade:</strong> Além de acompanhar as tarefas como PO, me envolvi ativamente no desenvolvimento técnico. Iniciei tasks que estavam travadas e ofereci ajuda aos colegas com dificuldades, especialmente nas partes relacionadas ao banco de dados e lógica do código em Java.
+</p>
 
  </details>
 
@@ -931,39 +977,40 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
 
 
 </p>
-          <a href="https://www.java.com/pt-BR/">JAVA</a>
           <p align="justify">
          Java é uma linguagem de programação orientada a objetos, lançada em 1995, conhecida por ser multiplataforma graças à JVM. É usada em aplicativos web, móveis e sistemas corporativos, valorizada por sua segurança e robustez. No projeto foi utilizado com um dos requisitos especificados e foi a principal linguagem para construção da aplicacão web. Abaixo tenho listadas as bibliotecas que utilizamos: </p>
 
-<img src="imagens/js.png" width="150" height="100">
+<h2>Tecnologias Utilizadas no Projeto Jai</h2>
+
+<a href="https://www.java.com/pt-BR/">JAVA</a>
+<p align="justify">
+  Foi utilizada como um dos requisitos especificados e foi a principal linguagem para construção da aplicação web.
+</p>
 
 <a href="https://www.javascript.com/">JavaScript</a>
-          <p align="justify">
-         JavaScript é uma linguagem de programação usada para criar páginas da web interativas. É leve, dinâmica e funciona tanto no frontend quanto no backend. É essencial no desenvolvimento web, sendo compatível com navegadores e suportando frameworks como React e Angular.
-
-<img src="imagens/mysql.png" width="150" height="150">
-
+<p align="justify">
+  Utilizada para desenvolvimento tanto no frontend quanto no backend, possibilitando páginas web interativas.
+</p>
 
 <a href="https://vuejs.org/">VUE</a>
-          <p align="justify">
-        Vue.js é um framework JavaScript progressivo usado para construir interfaces de usuário e aplicações web dinâmicas. É leve, fácil de aprender e foca em componentes reutilizáveis, facilitando a integração com projetos existentes. Ele combina simplicidade com recursos avançados, como gerenciamento de estado e roteamento, por meio de bibliotecas adicionais.
-
-<img src="imagens/html.png" width="150" height="100">
-
+<p align="justify">
+  Empregado para construir interfaces de usuário dinâmicas e facilitar a integração com o projeto, usando componentes reutilizáveis.
+</p>
 
 <p>HTML</p>
-          <p align="justify">
-         HTML (Hypertext Markup Language) é uma linguagem de marcação de texto que serve para criar páginas web.
-		 
-		 
-<img src="imagens/oracle.png" width="150" height="100">
-
+<p align="justify">
+  Usado para estruturar as páginas web da aplicação.
+</p>
 
 <a href="https://www.oracle.com/br/database/">Oracle</a>
-          <p align="justify">
-         O Oracle Database é um sistema de banco de dados robusto e escalável, projetado para gerenciar grandes volumes de dados em empresas. Ele oferece alta segurança, disponibilidade e suporte para transações complexas, sendo popular em ambientes corporativos. </p>		 
+<p align="justify">
+  Utilizado para gerenciar grandes volumes de dados com alta segurança e suporte a transações complexas.
+</p>
+
 		 
 </details>
+
+------
 
 <h2>Contribuições pessoais</h2>
 
@@ -1090,18 +1137,25 @@ Durante esse projeto, aprimorei minhas habilidades em:
 
 <br>
 
-
    __Hard Skills:__ <br>
-✅✅✅✅⬜ **Modelagem de Dados (DDL)**
-Fui responsável pela criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de constraints, foreign keys e relacionamentos entre tabelas como endereco, cliente e requisicao.  
-✅✅✅✅⬜ **Spring Boot**
-Utilizei o Spring Boot para estruturar e gerenciar os serviços e endpoints REST, permitindo uma integração eficiente com o banco de dados e facilitando a manutenção do sistema.  
-✅✅✅✅⬜ **SQL**
-Implementei consultas e criações de tabelas utilizando SQL puro, reforçando meus conhecimentos em comandos como CREATE TABLE, PRIMARY KEY, FOREIGN KEY e DEFAULT.  
+✅✅✅✅⬜ **Modelagem de Dados (DDL)**  
+Fui responsável pela criação do script DDL, garantindo a integridade e a normalização do banco de dados. Criei tabelas com uso apropriado de `PRIMARY KEY`, `FOREIGN KEY`, `UNIQUE` e `DEFAULT`, promovendo consistência entre as entidades. A modelagem seguiu boas práticas de banco relacional e foi essencial para garantir que os dados estivessem organizados e coerentes desde o início do projeto.  
+✅✅✅✅⬜ **Spring Boot**  
+Utilizei o framework Spring Boot para estruturar os serviços e endpoints REST da aplicação. A divisão em camadas (Controller, Service, Repository) proporcionou maior clareza na lógica da aplicação e facilitou a manutenção e escalabilidade do sistema. Além disso, utilizei anotações como `@Service`, `@Autowired`, `@RestController`, entre outras, que facilitaram a injeção de dependência e a criação de APIs robustas e organizadas.  
+✅✅✅✅⬜ **SQL**  
+Implementei comandos SQL durante o desenvolvimento do banco de dados, utilizando instruções como `CREATE TABLE`, `INSERT INTO`, `ALTER TABLE`, `PRIMARY KEY`, `FOREIGN KEY`, entre outras. Essa prática reforçou meus conhecimentos na estruturação de bancos relacionais e possibilitou a integração eficiente com o sistema backend.  
+✅✅✅⬜⬜ **API REST**  
+Participei ativamente na criação dos endpoints REST utilizando o Spring Boot. Desenvolvi métodos para manipulação de dados como POST e GET, entendendo o fluxo entre frontend e backend. A construção dessas rotas permitiu que o sistema funcionasse de forma integrada, com resposta rápida às requisições dos usuários.  
+✅✅✅⬜⬜ **Orientação a Objetos (Java)**  
+Apliquei conceitos de orientação a objetos na criação de classes e serviços com responsabilidade única, encapsulamento e reutilização de código. O entendimento de conceitos como herança, polimorfismo e abstração foi essencial para construir uma base sólida e sustentável no projeto.  
+
 
    __Soft Skills:__ <br>
-✅✅✅✅✅ **Comunicação:** Trabalhei de forma colaborativa com os colegas de equipe, alinhando as entregas de cada parte do projeto e garantindo que todos estivessem na mesma página. A comunicação também foi essencial no contato com o cliente.  
-✅✅✅✅⬜ **Organização:** Estruturei os códigos e scripts de forma clara, separando responsabilidades e mantendo um padrão que facilitasse a leitura e manutenção futura.  
+✅✅✅✅✅ **Comunicação:** Trabalhei de forma colaborativa com os colegas de equipe, alinhando as entregas de cada parte do projeto e garantindo que todos estivessem na mesma página. A comunicação também foi essencial no contato com o cliente, facilitando a coleta de requisitos e validações durante a sprint. Utilizamos ferramentas como Slack e os próprios encontros síncronos para tirar dúvidas e repassar alinhamentos.  
+✅✅✅✅⬜ **Organização:** Estruturei os códigos e scripts de forma clara, separando responsabilidades por pacotes e arquivos, o que facilitou a leitura e o entendimento por parte da equipe. Além disso, ajudei na organização das tarefas no quadro do projeto, atualizando os status das atividades e mantendo todos informados sobre o progresso.  
+✅✅✅⬜⬜ **Proatividade:** Me antecipei em tarefas que estavam travadas, oferecendo ajuda aos colegas e buscando soluções para os problemas encontrados no código. Quando percebi que havia uma dependência entre funcionalidades, me prontifiquei a resolver a minha parte rapidamente para não atrasar os demais.  
+✅✅✅⬜⬜ **Trabalho em equipe:** Participei ativamente das reuniões e discussões técnicas, contribuindo com ideias e ouvindo sugestões. Mantive uma postura colaborativa, respeitando o tempo e as opiniões dos demais integrantes da equipe, o que fortaleceu o clima de cooperação e confiança entre todos.  
+
 
 </details>
 
@@ -1144,29 +1198,27 @@ O Sistema Tecsus é um sistema de gerenciamento de dashboards para acompanhar as
 
 </p>
           <li><a href="https://spring.io/">Spring Framework</a></li>
-          <p align="justify">
-         Segundo <a href="https://www.treinaweb.com.br/blog/o-que-e-o-spring-boot/">TreinaWeb</a> o Spring Boot é um framework que torna fácil a criação de aplicações Spring autossuficientes e robustas, possibilitando a execução imediata. Contudo isso só é possível por conta da abordagem opinativa sobre a plataforma Spring e bibliotecas de terceiros, que permite ao desenvolvedor gastar o mínimo de tempo possível configurando o projeto, e sim codificando suas regras de negócio. Foi utilizado como o principal framework para o desenvolvimento da aplicação web e foi de grande importância para o mesmo, facilitando o processo ao longo das sprints.</p>
-          <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-1.png" height="150">
-          <li><a href="https://www.figma.com/">Figma</a></li>
-          <p align="justify">
-          Segundo <a href="https://www.alura.com.br/artigos/figma">Alura</a> o Figma é uma plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. O objetivo era o de criar uma ferramenta que trouxesse colaboração entre pessoas e times, permitindo criar um produto para as mais diversas plataformas, mantendo a acessibilidade do sistema. Foi utilizado para o desenvolvimento do Front-end podendo colaborar de forma crucial para o desenvolvimento das telas em geral do projeto.</p>
-          <img src="https://logospng.org/download/react/logo-react-1024.png" height="150">
-          <li><a href="https://react.dev/">React</a></li>
-          <p align="justify">
-          O React, também conhecido como React.js ou ReactJS, é uma biblioteca de código aberto JavaScript amplamente utilizada para construir interfaces de usuário (UI) interativas e dinâmicas. É um componente fundamental no desenvolvimento de aplicativos web modernos e é especialmente popular para a criação de interfaces de usuário de página única (Single Page Applications - SPAs), de acordo
-          <a href="https://kenzie.com.br/blog/react/.">Kenzie</a>. O React foi utilizado também para o desenvolvimento em parte do Front-end assim colaborando com a parte visual utilizando bibliotecas que apoiaram no desenvolvimento dos Dashboards.</p>
-          <img src="https://th.bing.com/th/id/R.55692e7a8d3fa0da6a2325630ad177d1?rik=MPH0G8OKchACqA&pid=ImgRaw&r=0" height="150">
-          <li><a href="https://www.apachefriends.org/pt_br/index.html">XAMPP</a></li>
-          <p align="justify">
-         Segundo  <a href="https://www.techtudo.com.br/noticias/2012/02/o-que-e-xampp-e-para-que-serve.ghtml">TechTudo</a> o XAMPP é um pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL e Apache com suporte as linguagens PHP e Perl. Foi utilizado para acesso ao nosso banco local como um servidor local.</p>
-         <img src="https://th.bing.com/th/id/R.a0d754098a11d27b496dd867e9bcb26e?rik=ktyhKrtGerv2SA&riu=http%3a%2f%2fjcpdev.com%2fwp-content%2fuploads%2f2015%2f06%2fmysql-logo_2800x2800_pixels1.png&ehk=stX862qDhFHMNl5t8sy91A9mlH6zUShTkbwH8E8cxsc%3d&risl=&pid=ImgRaw&r=0" height="150">
-         <li><a href="">MySQL Workbench</a></li>
-         <p align="justify">
-         Segundo <a href="https://www.danielimamura.com.br/manual-completo-do-mysql-workbench/">Danieli Mamura</a> MySQL Workbench é a ferramenta oficial do MySQL. É um ambiente completo que permite além de realizar consultas, criar diagramas e trabalhar com engenharia reversa.Utilizamos para o desenvolvimento do DDL das tabelas que utilizamos em nossa aplicação.
-         </p>
+   <h2>Tecnologias utilizadas no projeto Tecsus e seus motivos de uso</h2>
+
+<h3>Spring Framework</h3>
+<p>Foi a principal tecnologia usada para o desenvolvimento da aplicação backend. O Spring Boot facilitou a criação de uma aplicação robusta, autossuficiente e escalável, permitindo que o time focasse em implementar as regras de negócio ao invés de configurar infraestrutura. A utilização do Spring também permitiu uma boa organização do código e integração com o banco de dados e outras camadas da aplicação.</p>
+
+<h3>Figma</h3>
+<p>Utilizado para o design das interfaces e prototipação das telas do sistema. O uso do Figma possibilitou uma colaboração eficaz entre os membros da equipe no planejamento visual do front-end, garantindo que as telas fossem acessíveis, responsivas e alinhadas com a experiência do usuário desejada antes do desenvolvimento.</p>
+
+<h3>React</h3>
+<p>Adotado no front-end para construir interfaces dinâmicas e interativas. React foi importante para criar componentes reutilizáveis, facilitando o desenvolvimento e a manutenção do dashboard e demais telas da aplicação. Também ajudou a garantir uma experiência fluida para o usuário por meio de uma SPA (Single Page Application).</p>
+
+<h3>XAMPP</h3>
+<p>Empregado como ambiente local para o desenvolvimento, servindo como servidor Apache com suporte a MySQL, permitindo que a equipe trabalhasse com o banco de dados local de forma simples e integrada. Isso facilitou o teste e desenvolvimento da aplicação com um banco funcional durante as sprints.</p>
+
+<h3>MySQL Workbench</h3>
+<p>Utilizado para o design e modelagem do banco de dados, além de executar consultas SQL e gerenciar o schema do banco MySQL. A ferramenta auxiliou no desenvolvimento do DDL das tabelas, garantindo a correta estruturação dos dados para a aplicação.</p>
+
+</p>
 </details>
 
-
+---
 
 <h3>Contribuições pessoais</h3>
 
@@ -1225,17 +1277,22 @@ Durante esse projeto, aprimorei minhas habilidades em:
 - Proatividade na busca por soluções e melhorias
 </p>
 
-
    __Hard Skills:__ <br>
-✅✅✅✅⬜ **Modelagem de Dados (DDL)**
-Apoiei na criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de constraints, foreign keys e relacionamentos entre tabelas como endereco, cliente e requisicao e no entendimento dos dados e do negócio.  
-✅✅✅⬜⬜ **Power BI**
-Utilizei o power BI para desenvolvimento do dashboard no power BI.  
-✅✅✅⬜⬜ **SonarQUBE** Utilizei do SonarQUBE para o desenvolvimento da etapa no DEVOPS de Qualidade de Software e depois apresentei a sala o que foi aplicado no nosso projeto.
+✅✅✅✅⬜ **Modelagem de Dados (DDL)**  
+Apoiei na criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de `PRIMARY KEY`, `FOREIGN KEY`, `DEFAULT` e `NOT NULL`. Trabalhei em conjunto com a equipe na identificação dos relacionamentos entre entidades como `endereco`, `cliente` e `requisicao`, contribuindo também para o entendimento dos dados e do negócio por meio de reuniões com o cliente, o que facilitou uma modelagem mais precisa e funcional. 
+✅✅✅⬜⬜ **Power BI**  
+Fui responsável pelo desenvolvimento do meu primeiro dashboard no Power BI, voltado à análise de contas de água e energia de um cliente real. Aprendi a conectar os dados do banco com o ambiente do Power BI, realizar a transformação dos dados e elaborar visuais claros e objetivos para facilitar a tomada de decisão. Também elaborei a documentação do Readme explicando a estrutura e o propósito do dashboard.  
+📎 <a href="https://github.com/Data-Team23/Tecsus-backend/tree/main/tecsus/power_bi">Acesse aqui o repositório</a>  
+✅✅✅⬜⬜ **SonarQUBE**  
+Implementei uma etapa de Qualidade de Software no processo de CI/CD utilizando o SonarQUBE, definindo critérios de análise de código-fonte que impediam o avanço do PR caso fossem encontradas falhas. Esse processo garantiu mais segurança, padronização e confiabilidade ao código produzido pela equipe. Posteriormente, compartilhei com a turma o que foi aplicado, detalhando como o SonarQUBE foi configurado e integrado ao nosso pipeline.  
+📎 <a href="https://github.com/Data-Team23/Tecsus/wiki/DevOps#garantia-da-qualidade-de-software">Veja a documentação DevOps aqui</a>  
+
 
    __Soft Skills:__ <br>
-✅✅✅✅✅ **Aprendizado Contínuo:** Busco aplicar o que aprendo na faculdade e nos estudos no projeto na API e foram essesciais para toda a etapa do inicio ao fim, buscando auxiliio com colegas e professores quando necessário.  
-✅✅✅⬜⬜ **Resiliência:** Mesmo diante da  dificuldade em entender e desenvolver algumas partes do projeto me mantive resiliente assim buscando sempre a qualidade.
+✅✅✅✅✅ **Aprendizado Contínuo:** Busco aplicar constantemente o que aprendo na faculdade e nos estudos em projetos reais. Durante esse trabalho, isso foi essencial desde a modelagem inicial até a entrega final. Busquei apoio de colegas e professores sempre que necessário, o que me ajudou a superar obstáculos e entregar com mais confiança.  
+✅✅✅⬜⬜ **Resiliência:** Apesar das dificuldades iniciais em entender certas etapas técnicas, como a integração do SonarQUBE e a lógica de relacionamento dos dados no Power BI, mantive o foco e a determinação para aprender e executar. Essa postura foi essencial para não travar o andamento da equipe.  
+✅✅✅⬜⬜ **Organização:** Mantive uma estrutura clara nos arquivos e documentação do projeto, tanto na parte técnica quanto na visual (dashboard). O Readme do Power BI foi produzido de forma objetiva e acessível para que qualquer integrante pudesse entender rapidamente a finalidade do dashboard e suas fontes de dados.  
+✅✅✅⬜⬜ **Proatividade:** Tomei a iniciativa de participar ativamente da análise de dados junto à equipe, buscando compreender o negócio do cliente para contribuir com sugestões no dashboard. Também propus soluções para as regras de qualidade de software, o que resultou em um código mais limpo e sustentável.
 
 </details>
 
@@ -1286,31 +1343,24 @@ Este projeto tem como foco o desenvolvimento de produtos voltados ao mercado fin
 
 <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" width="150" height="150">
 
-</p>
-          <a href="https://www.python.org/">Python</a>
-          <p align="justify">
-         O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).No projeto foi utilizado para o desenvolvimento da IA e foi um dos requisitos especificados pelo cliente, então decidimos desenvolver nessa linguagem. </p>
 
+<a href="https://www.python.org/">Python</a>
+<h2>Tecnologias utilizadas no projeto SPC-Grafeno e seus motivos de uso</h2>
 
-<img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="150" height="150">
+<h3>Python</h3>
+<p>Python foi utilizado para o desenvolvimento da inteligência artificial (IA) do projeto. Essa escolha atendeu a um requisito do cliente e do professor, aproveitando a popularidade da linguagem em machine learning e ciência de dados, além de sua sintaxe simples e grande ecossistema de bibliotecas para IA.</p>
 
-<br>
+<h3>MongoDB</h3>
+<p>MongoDB foi escolhido como banco de dados por ser NoSQL e trabalhar com armazenamento de dados em formato JSON/BSON, adequado para lidar com dados não estruturados e flexíveis. Esse modelo facilitou o armazenamento dos documentos e dados do projeto, alinhando-se às exigências do cliente e do curso de Banco de Dados Não Estruturados.</p>
 
-</p>>
-        <a href="https://www.mongodb.com/?msockid=1adf5fbf68f562430e094bd969236316">MongoDB</a>
-        <p align="justify">
-         O MongoDB é um banco de dados NoSQL que armazena dados em formato JSON/BSON (parecido com um dicionário do Python). Ele não usa tabelas como os bancos relacionais (como MySQL ou PostgreSQL), mas sim coleções de documentos.Foi também um dos requisitos do cliente e também do professor da matéria de Banco de Dados não Estruturados. </p>
+<h3>Django</h3>
+<p>Django foi utilizado como framework web para acelerar o desenvolvimento da aplicação, fornecendo ferramentas integradas para autenticação, gerenciamento de URLs, templates e manipulação do banco de dados. A escolha do Django trouxe rapidez, segurança e facilidade na construção da aplicação web, atendendo aos requisitos do projeto de forma eficiente.</p>
 
-<img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="210" height="100">
-
-<br>
-
-</p>>
-        <a href="https://www.djangoproject.com/">django</a>
-        <p align="justify">
-        O Django é um framework web de alto nível para a linguagem Python. Ele facilita o desenvolvimento de aplicações web, fornecendo muitas ferramentas prontas, como autenticação, controle de URL, templates e banco de dados. Ele foi projetado para ser rápido, seguro e fácil de usar. </p>
 
 </details>
+
+
+-------------
 
 
 <h2>Contribuições pessoais</h2>
@@ -1412,16 +1462,16 @@ CREATE TABLE fk_authorized_third_party_participants (
 
 <br>
 
-   __Hard Skills:__ <br>
-✅✅✅✅⬜ **Modelagem de Dados (DDL)**
-Apoiei na criação do script DDL, garantindo a integridade e normalização do banco de dados com uso adequado de constraints, foreign keys e relacionamentos entre tabelas como endereco, cliente e requisicao e no entendimento dos dados e do negócio.  
-✅✅⬜⬜⬜ **Machine Learning**
-Utilizei o conteúdo aprendido em sala de aula com o professor Mineda para o desenvolvimento do Modelo de Classificação que fiz em conjunto com minha colega Ariane patra identificação de pagamento de notas fiscais atrasadas.  
+__Hard Skills:__ <br>
+✅✅✅✅⬜ **Modelagem de Dados (DDL)**  
+Atuei na estruturação do modelo DER e Lógico do banco de dados, servindo como base para o desenvolvimento do projeto, mesmo tendo sido implementado com MongoDB (não relacional). Elaborei o script DDL com integridade referencial utilizando constraints e chaves estrangeiras para representar corretamente os relacionamentos entre entidades como participants, authorized_third_parties e paymasters.  
+✅✅⬜⬜⬜ **Machine Learning**  
+Utilizei os conhecimentos adquiridos com o professor Mineda para desenvolver, junto com minha colega Ariane, um modelo de classificação com Random Forest para prever se o pagamento de uma nota fiscal seria realizado no prazo ou com atraso. Realizamos transformação de datas, codificação de variáveis categóricas e criamos a variável-alvo, além de avaliar o desempenho com acurácia e AUC-ROC.  
 
 
-   __Soft Skills:__ <br>
-✅✅✅✅✅ **Colaboração e Trabalho em Equipe:** Durante o desenvolvimento do projeto, atuei de forma colaborativa na construção do modelo de machine learning, compartilhando responsabilidades com colegas e integrando decisões técnicas de acordo com os requisitos do cliente e da disciplina, o que reforçou minhas habilidades de colaboração e trabalho em equipeo.  
-✅✅✅⬜⬜ **Resiliência:** Mesmo diante da  dificuldade em entender e desenvolver algumas partes do projeto me mantive resiliente assim buscando sempre a qualidade.
+__Soft Skills:__ <br>
+✅✅✅✅✅ **Colaboração e Trabalho em Equipe:** Trabalhei de forma colaborativa no desenvolvimento do modelo de machine learning, dividindo responsabilidades e integrando as decisões técnicas com minha colega, o que fortaleceu minha habilidade de trabalhar em equipe.  
+✅✅✅⬜⬜ **Resiliência:** Mesmo com dificuldades em entender partes do código e no processo de implementação, me mantive resiliente, buscando ajuda e estudando mais para garantir a entrega com qualidade.  
 
 </details>
 
