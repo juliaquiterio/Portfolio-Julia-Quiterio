@@ -1479,7 +1479,7 @@ __Soft Skills:__ <br>
 
 <br>
 
-**Conclusão**
+<h2>Conclusão</h2>
 
 Todos os projetos APIs me permitiu aplicar de forma prática os conhecimentos adquiridos no curso de Banco de Dados, desenvolvendo soluções que atenderam a demandas reais de diferentes empresas. Foram elaboradas aplicações desktop e web, além de sistemas que utilizaram técnicas de ETL, visualização de dados e machine learning para otimizar processos e apoiar a tomada de decisões.
 
