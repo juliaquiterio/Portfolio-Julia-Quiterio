@@ -319,7 +319,7 @@ Adotei essa metodologia na gestão do projeto junto à minha equipe, organizando
    <h3>Soft Skills:</h3>
 
 ✅✅✅✅✅ **Organização**  
-Pude usar essa minha soft skill para me organizar nas minhas atividades e nos meus estudos e isso foi essencial para todo o desenvolvimento do projeto. Organização foi utilizada na divisão de tarefas e eu me anteciapava sempre nos temas aos quais estava planejado na sprint.  
+Pude usar essa minha soft skill para me organizar nas minhas atividades e nos meus estudos e isso foi essencial para todo o desenvolvimento do projeto. A Organização foi utilizada na divisão de tarefas e eu me anteciapava sempre nos temas aos quais estava planejado na sprint. Como quando meu time precisava de organização de um planejaamento de um escopo do projeto e assim auxiliar no que cada colega desenvolvedor iria realizar.  
 
 
 ✅✅✅✅⬜ **Proatividade**  
@@ -327,7 +327,7 @@ Fui proativa em saber reconhecer que se minha equipe estava precisando de apoio 
 
 
 ✅✅✅✅✅ **Trabalho em equipe**  
-Esse foi um dos tópicos mais importantes pois sem ele não seria possível fazermos uma entrega tão eficiente do nosso produto. Soube lidar com situações e agirmos em grupo nas atividades, assim conseguimos conciliá-la e entregá-las com eficiência. Eu e minha equipe juntamos nossos conhecimentos e conseguimos finalizar o projeto com excelência.   
+Esse foi um dos tópicos mais importantes pois sem ele não seria possível fazermos uma entrega tão eficiente do nosso produto. Soube lidar com situações e agirmos em grupo nas atividades, assim conseguimos conciliá-la e entregá-las com eficiência. Eu e minha equipe juntamos nossos conhecimentos e conseguimos finalizar o projeto com excelência.Nós nos juntamos e faziamos reuniões semanalmente para pegar o  status do projeto e quando o meu colega Lucas estava com dificuldades eu me juntei a ele para auxiliá-lo com sua tarefa de procurar as melhores bibliotecas para se utilizar quando falamos de uma assistente virtual, e isso mostrou claramente o que é trabalho em equipe.    
 
 
 
@@ -674,8 +674,8 @@ Adotei essa metodologia na gestão do projeto junto à minha equipe, organizando
    
 
    __Soft Skills:__ <br>
-✅✅✅✅⬜ **Comunicação:** A comunicação foi essencial para que pudéssemos ter um diálogo aberto para com a equipe e com o nosso cliente, onde utilizamos o Slack e as aulas para retirar as dúvidas.  
-✅✅✅⬜⬜ **Trabalho em equipe:** O trabalho em equipe esteve presente em todo o desenvolvimento mas há oportunidade de melhoria, pois o grupo poderia ter mais união  para auxiliar oscolegas, digo isso por uma visão geral do grupo como um todo.  
+✅✅✅✅⬜ **Comunicação:** A comunicação foi essencial para que pudéssemos ter um diálogo aberto para com a equipe e com o nosso cliente, onde utilizamos o Slack e as aulas para retirar as dúvidas. Como desenvolvedora no projeto  eu puder usar essa habilidade ao meu favor expondo para o P.O. que eu precisava que ele refinasse com o cliente uma das telas de RH que planejávamos inserir na página. Isso foi fundamental para que eu conseguisse atender ao que realmente fazia sentido para o cliente.  
+✅✅✅⬜⬜ **Trabalho em equipe:** O trabalho em equipe esteve presente em todo o desenvolvimento mas há oportunidade de melhoria, pois o grupo poderia ter mais união  para auxiliar os colegas, digo isso por uma visão geral do grupo como um todo. Mas eu puder tomar a frente e ajudar minha colega Marcela na conexão com o Banco de Dados de conexão DAO do Candidato , auxiliando em pesquisar como fazer essa conexão e asssim consegui achar alguns sites e a enviei e isso pode contribuir para o desenvolvimento dessa conexão com o BD. 
  
 
 
@@ -922,8 +922,8 @@ Contribuí com a modelagem do banco de dados, desde o DER e MER até a implement
 </p>
 
 __Soft Skills:__
-✅✅✅✅✅ <strong>Organização:</strong> Atuei como Product Owner da equipe, sendo responsável por organizar o backlog e priorizar as entregas de maior valor a cada sprint. Também criei o burndown no Excel para acompanhar o andamento das tarefas, garantindo que o time estivesse alinhado com os prazos.<br>
-✅✅✅⬜⬜ <strong>Proatividade:</strong> Além de acompanhar as tarefas como PO, me envolvi ativamente no desenvolvimento técnico. Iniciei tasks que estavam travadas e ofereci ajuda aos colegas com dificuldades, especialmente nas partes relacionadas ao banco de dados e lógica do código em Java.
+✅✅✅✅✅ <strong>Organização:</strong> Atuei como Product Owner da equipe, sendo responsável por organizar o backlog e priorizar as entregas de maior valor a cada sprint. Também criei o burndown no Excel para acompanhar o andamento das tarefas, garantindo que o time estivesse alinhado com os prazos, assim pude aplicar essa skill com eficiência para o desenvolvimento do projeto.<br>
+✅✅✅⬜⬜ <strong>Proatividade:</strong> Além de acompanhar as tarefas como PO, me envolvi ativamente no desenvolvimento técnico. Iniciei tasks que estavam travadas,como a modelagem de dados e o DDL e também fiz a tela de login do vendedor, além disso ofereci ajuda aos colegas com dificuldades, especialmente nas partes relacionadas ao banco de dados e lógica do código em Java.
 </p>
 
  </details>
@@ -1152,9 +1152,9 @@ Apliquei conceitos de orientação a objetos na criação de classes e serviços
 
    __Soft Skills:__ <br>
 ✅✅✅✅✅ **Comunicação:** Trabalhei de forma colaborativa com os colegas de equipe, alinhando as entregas de cada parte do projeto e garantindo que todos estivessem na mesma página. A comunicação também foi essencial no contato com o cliente, facilitando a coleta de requisitos e validações durante a sprint. Utilizamos ferramentas como Slack e os próprios encontros síncronos para tirar dúvidas e repassar alinhamentos.  
-✅✅✅✅⬜ **Organização:** Estruturei os códigos e scripts de forma clara, separando responsabilidades por pacotes e arquivos, o que facilitou a leitura e o entendimento por parte da equipe. Além disso, ajudei na organização das tarefas no quadro do projeto, atualizando os status das atividades e mantendo todos informados sobre o progresso.  
-✅✅✅⬜⬜ **Proatividade:** Me antecipei em tarefas que estavam travadas, oferecendo ajuda aos colegas e buscando soluções para os problemas encontrados no código. Quando percebi que havia uma dependência entre funcionalidades, me prontifiquei a resolver a minha parte rapidamente para não atrasar os demais.  
-✅✅✅⬜⬜ **Trabalho em equipe:** Participei ativamente das reuniões e discussões técnicas, contribuindo com ideias e ouvindo sugestões. Mantive uma postura colaborativa, respeitando o tempo e as opiniões dos demais integrantes da equipe, o que fortaleceu o clima de cooperação e confiança entre todos.  
+✅✅✅✅⬜ **Organização:** Estruturei os códigos e scripts de forma clara, separando responsabilidades por pacotes e arquivos, o que facilitou a leitura e o entendimento por parte da equipe. Além disso, ajudei na organização das tarefas no quadro do projeto, atualizando os status das atividades e mantendo todos informados sobre o progresso e mandava no whatsapp no nosso chat quando podia para os colegas sobre como estava o andamento de alguma tarefa.  
+✅✅✅⬜⬜ **Proatividade:** Me antecipei em tarefas que estavam travadas, oferecendo ajuda aos colegas e buscando soluções para os problemas encontrados no código. Quando percebi que havia uma dependência entre funcionalidades como se prontificar a fazer a parte do desenvolvimento do DDL quando ninguém havia se prontificado a realizar.  
+✅✅✅⬜⬜ **Trabalho em equipe:** Participei ativamente das reuniões e discussões técnicas, contribuindo com ideias e ouvindo sugestões. Mantive uma postura colaborativa, respeitando o tempo e as opiniões dos demais integrantes da equipe, o que fortaleceu o clima de cooperação e confiança entre todos, como nas reuniões de alinhamento quando fazíamos em sala de aula.  
 
 
 </details>
@@ -1289,10 +1289,9 @@ Implementei uma etapa de Qualidade de Software no processo de CI/CD utilizando o
 
 
    __Soft Skills:__ <br>
-✅✅✅✅✅ **Aprendizado Contínuo:** Busco aplicar constantemente o que aprendo na faculdade e nos estudos em projetos reais. Durante esse trabalho, isso foi essencial desde a modelagem inicial até a entrega final. Busquei apoio de colegas e professores sempre que necessário, o que me ajudou a superar obstáculos e entregar com mais confiança.  
-✅✅✅⬜⬜ **Resiliência:** Apesar das dificuldades iniciais em entender certas etapas técnicas, como a integração do SonarQUBE e a lógica de relacionamento dos dados no Power BI, mantive o foco e a determinação para aprender e executar. Essa postura foi essencial para não travar o andamento da equipe.  
-✅✅✅⬜⬜ **Organização:** Mantive uma estrutura clara nos arquivos e documentação do projeto, tanto na parte técnica quanto na visual (dashboard). O Readme do Power BI foi produzido de forma objetiva e acessível para que qualquer integrante pudesse entender rapidamente a finalidade do dashboard e suas fontes de dados.  
-✅✅✅⬜⬜ **Proatividade:** Tomei a iniciativa de participar ativamente da análise de dados junto à equipe, buscando compreender o negócio do cliente para contribuir com sugestões no dashboard. Também propus soluções para as regras de qualidade de software, o que resultou em um código mais limpo e sustentável.
+✅✅✅✅✅ **Aprendizado Contínuo:** Busco aplicar constantemente o que aprendo na faculdade e nos estudos em projetos reais. Durante esse trabalho, isso foi essencial desde a modelagem inicial até a entrega final. Busquei apoio de colegas e professores sempre que necessário, o que me ajudou a superar obstáculos e entregar com mais confiança. Como quando tive dificuldades em entender o conceito de como a qualidade de software se aplicaria no nosso projeto, por ser algo novo, pedi ajuda de como estudar esse tema para o professor Nadalete que dava essa matériaa de teste e que estava relacionada com essa minha task.  
+✅✅✅⬜⬜ **Resiliência:** Apesar das dificuldades iniciais em entender certas etapas técnicas, como a integração do SonarQUBE e a lógica de relacionamento dos dados no Power BI, mantive o foco e a determinação para aprender e executar. Essa postura foi essencial para não travar o andamento da equipe. E isso me ajudou muito no desenvolvimento do Power BI e sem essa persistência em continuar mesmo com dificuldade me ajudou a finalizar essa tarefa.  
+✅✅✅⬜⬜ **Proatividade:** Tomei a iniciativa de participar ativamente da análise de dados junto à equipe, buscando compreender o negócio do cliente para contribuir com sugestões no dashboard. Também propus soluções para as regras de qualidade de software, o que resultou em um código mais limpo e sustentável. E junto aos meus colegas Lucas e Tobias eu pude fazer algumas tabelas dinamicas no excel para o apoio nestas análises e assim descobrirmos o que fazia sentido usar para os dados e o que era irrelevante. Além de participar da reunião quando nenhum dos meus colegas podia participar no dia com a funcionária da empresa Tecsus que fez a apresentação de como funcionava a solução da empresa Tecsus , assim pude fazer um refinamento com ela e aproveitar aquele tempo de reunião.
 
 </details>
 
@@ -1470,8 +1469,8 @@ Utilizei os conhecimentos adquiridos com o professor Mineda para desenvolver, ju
 
 
 __Soft Skills:__ <br>
-✅✅✅✅✅ **Colaboração e Trabalho em Equipe:** Trabalhei de forma colaborativa no desenvolvimento do modelo de machine learning, dividindo responsabilidades e integrando as decisões técnicas com minha colega, o que fortaleceu minha habilidade de trabalhar em equipe.  
-✅✅✅⬜⬜ **Resiliência:** Mesmo com dificuldades em entender partes do código e no processo de implementação, me mantive resiliente, buscando ajuda e estudando mais para garantir a entrega com qualidade.  
+✅✅✅✅✅ **Colaboração e Trabalho em Equipe:** Trabalhei de forma colaborativa no desenvolvimento do modelo de machine learning, dividindo responsabilidades e integrando as decisões técnicas com minha colega, o que fortaleceu minha habilidade de trabalhar em equipe. Eu e a Ariane desenvolvemos a IA de Classificação juntas, e pedimos ajuda ao professor Mineda que dava essa matéria para analisar a IA e a acurácia se estava fazendo sentido ou não.  
+✅✅✅⬜⬜ **Resiliência:** Mesmo com dificuldades em entender partes do código e no processo de implementação, me mantive resiliente, buscando ajuda e estudando mais para garantir a entrega com qualidade. Como quando não estava conseguindo entender muito bem a matéria por ser mesmo complexa mas eu estudei mais buscando nos materias das aulas e utilizando das atividades práticas para aprender e entender melhor como utilizar da forma correta IA de classificação, que foi um dos laboratórios passados em sala de aula e não desisti, isso mostrou minha resiliência em não entregar a atividade incompleta ou errada.  
 
 </details>
 
