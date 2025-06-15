@@ -912,17 +912,14 @@ Durante esse projeto, aprimorei minhas habilidades em:
 
  <br>
 
-__Hard Skills:__
-✅✅✅✅⬜ <strong>Java</strong><br>
-Durante a sprint, apliquei os conhecimentos de Java aprendidos em sala de aula para desenvolver parte da lógica do sistema no back-end, utilizando conceitos de orientação a objetos. Isso me ajudou a compreender melhor a estrutura da linguagem e como aplicá-la na prática, especialmente integrando com o banco de dados.<br>
-✅✅✅✅✅ <strong>Markdown</strong><br>
-Fui responsável por organizar a documentação do projeto utilizando Markdown no GitHub. Estruturei os tópicos de forma clara e objetiva, o que facilitou a compreensão do escopo pelas outras pessoas do grupo e também pelo professor/orientador.<br>
-✅✅✅✅⬜ <strong>Modelagem de Dados (DDL)</strong><br>
-Contribuí com a modelagem do banco de dados, desde o DER e MER até a implementação do DDL em SQL. Essa tarefa exigiu atenção aos relacionamentos entre as entidades, o que foi fundamental para garantir a integridade e funcionalidade da base de dados no sistema.
+__Hard Skills:__  
+✅✅✅✅⬜ <strong>Java:</strong>  Durante a sprint, apliquei os conhecimentos de Java aprendidos em sala de aula para desenvolver parte da lógica do sistema no back-end, utilizando conceitos de orientação a objetos. Isso me ajudou a compreender melhor a estrutura da linguagem e como aplicá-la na prática, especialmente integrando com o banco de dados.  
+✅✅✅✅✅ <strong>Markdown:</strong>  Fui responsável por organizar a documentação do projeto utilizando Markdown no GitHub. Estruturei os tópicos de forma clara e objetiva, o que facilitou a compreensão do escopo pelas outras pessoas do grupo e também pelo professor/orientador.<br>
+✅✅✅✅⬜ <strong>Modelagem de Dados (DDL):</strong>  Contribuí com a modelagem do banco de dados, desde o DER e MER até a implementação do DDL em SQL. Essa tarefa exigiu atenção aos relacionamentos entre as entidades, o que foi fundamental para garantir a integridade e funcionalidade da base de dados no sistema.
 </p>
 
-__Soft Skills:__
-✅✅✅✅✅ <strong>Organização:</strong> Atuei como Product Owner da equipe, sendo responsável por organizar o backlog e priorizar as entregas de maior valor a cada sprint. Também criei o burndown no Excel para acompanhar o andamento das tarefas, garantindo que o time estivesse alinhado com os prazos, assim pude aplicar essa skill com eficiência para o desenvolvimento do projeto.<br>
+__Soft Skills:__  
+✅✅✅✅✅ <strong>Organização:</strong> Atuei como Product Owner da equipe, sendo responsável por organizar o backlog e priorizar as entregas de maior valor a cada sprint. Também criei o burndown no Excel para acompanhar o andamento das tarefas, garantindo que o time estivesse alinhado com os prazos, assim pude aplicar essa skill com eficiência para o desenvolvimento do projeto.  
 ✅✅✅⬜⬜ <strong>Proatividade:</strong> Além de acompanhar as tarefas como PO, me envolvi ativamente no desenvolvimento técnico. Iniciei tasks que estavam travadas,como a modelagem de dados e o DDL e também fiz a tela de login do vendedor, além disso ofereci ajuda aos colegas com dificuldades, especialmente nas partes relacionadas ao banco de dados e lógica do código em Java.
 </p>
 
@@ -980,7 +977,7 @@ Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios mo
           <p align="justify">
          Java é uma linguagem de programação orientada a objetos, lançada em 1995, conhecida por ser multiplataforma graças à JVM. É usada em aplicativos web, móveis e sistemas corporativos, valorizada por sua segurança e robustez. No projeto foi utilizado com um dos requisitos especificados e foi a principal linguagem para construção da aplicacão web. Abaixo tenho listadas as bibliotecas que utilizamos: </p>
 
-<h2>Tecnologias Utilizadas no Projeto Jai</h2>
+<h2>Tecnologias Utilizadas no Projeto Jaia</h2>
 
 <a href="https://www.java.com/pt-BR/">JAVA</a>
 <p align="justify">
@@ -1111,8 +1108,67 @@ public class DepartamentoController {
 }
 ```
 
-
 </details>
+<br>
+
+  __Desenvolvimento da classe de Email e ligação do Backend com o Frontend para o disparo para o funcionário:__
+   Como desenvolvedora eu desenvolvi a classe de Email. Foi desenvolvido em Java e separado em 2 classes, sendo elas:
+   
+   - Email Service 
+   - Email Controller
+   
+
+Veja abaixo um exemplo do Script (Parcial):
+
+
+<details><summary>Clique aqui</summary>
+
+```
+@Service
+public class EmailService 
+
+    @Autowired
+    private JavaMailSender mailSender;
+
+    @Autowired
+    private ClienteRepository cliRepo;
+
+    @Value("${support.mail}")
+    private String supportMail;
+
+    public void enviarEmailCliente(Cliente cliente, String assunto) throws MessagingException {
+
+        String senhaGerada = generateRandomPassword(5);
+
+
+        cliente.setSenha(senhaGerada);
+
+        MimeMessage mail = mailSender.createMimeMessage();
+
+        MimeMessageHelper mensagem = new MimeMessageHelper(mail, true);
+        mensagem.setSubject(assunto);
+        mensagem.setTo(cliente.getEmail());
+        mensagem.setFrom(supportMail);
+
+        String conteudoDoEmail = getContentMailCertificate(cliente, senhaGerada);
+
+        mensagem.setText(conteudoDoEmail, true);
+
+        mailSender.send(mail);
+
+        cliRepo.save(cliente);
+
+    }
+```
+</details>
+<br>
+
+  __Criação do Banco de dados da Wallet do Oracle para o uso na API:__
+   Como desenvolvedora eu desenvolvi a wallet criando a conexão para a API entre ao backend e o Banco de dados escolhido que foi o do Oracle. 
+
+   ![alt text](imagens/video_api_4semestre.gif)
+
+
 
 <h3>📚 Lições Aprendidas</h3>
 
@@ -1124,8 +1180,8 @@ Durante esse projeto, também pude utilizar HTML para construção de interfaces
 
 Durante esse projeto, aprimorei minhas habilidades em:
 
-- Programação orientada a objetos com Java  
-- Criação de interfaces com HTML  
+- Programação orientada a objetos com Java usando o Spring Boot  
+- Desenvolvimento do DDL e Modelo lógico para o banco de dados  
 - Aplicação da Metodologia Ágil (Scrum) no desenvolvimento  
 - Comunicação eficaz e trabalho em equipe  
 - Proatividade na identificação e resolução de problemas
@@ -1141,13 +1197,10 @@ Durante esse projeto, aprimorei minhas habilidades em:
 ✅✅✅✅⬜ **Modelagem de Dados (DDL)**  
 Fui responsável pela criação do script DDL, garantindo a integridade e a normalização do banco de dados. Criei tabelas com uso apropriado de `PRIMARY KEY`, `FOREIGN KEY`, `UNIQUE` e `DEFAULT`, promovendo consistência entre as entidades. A modelagem seguiu boas práticas de banco relacional e foi essencial para garantir que os dados estivessem organizados e coerentes desde o início do projeto.  
 ✅✅✅✅⬜ **Spring Boot**  
-Utilizei o framework Spring Boot para estruturar os serviços e endpoints REST da aplicação. A divisão em camadas (Controller, Service, Repository) proporcionou maior clareza na lógica da aplicação e facilitou a manutenção e escalabilidade do sistema. Além disso, utilizei anotações como `@Service`, `@Autowired`, `@RestController`, entre outras, que facilitaram a injeção de dependência e a criação de APIs robustas e organizadas.  
+Utilizei o framework Spring Boot para estruturar os serviços e endpoints REST da aplicação. A divisão em camadas (Controller, Service, Repository) proporcionou maior clareza na lógica da aplicação e facilitou a manutenção e escalabilidade do sistema. Além disso, utilizei anotações como `@Service`, `@Autowired`, `@RestController`, entre outras, que facilitaram a injeção de dependência e a criação de APIs robustas e organizadas. Como por exemplo para a Criação da classe de DEPARTAMENTO e a do E-mail que depois serviu para automatizar os envios para inpetores e clientes.  
 ✅✅✅✅⬜ **SQL**  
 Implementei comandos SQL durante o desenvolvimento do banco de dados, utilizando instruções como `CREATE TABLE`, `INSERT INTO`, `ALTER TABLE`, `PRIMARY KEY`, `FOREIGN KEY`, entre outras. Essa prática reforçou meus conhecimentos na estruturação de bancos relacionais e possibilitou a integração eficiente com o sistema backend.  
-✅✅✅⬜⬜ **API REST**  
-Participei ativamente na criação dos endpoints REST utilizando o Spring Boot. Desenvolvi métodos para manipulação de dados como POST e GET, entendendo o fluxo entre frontend e backend. A construção dessas rotas permitiu que o sistema funcionasse de forma integrada, com resposta rápida às requisições dos usuários.  
-✅✅✅⬜⬜ **Orientação a Objetos (Java)**  
-Apliquei conceitos de orientação a objetos na criação de classes e serviços com responsabilidade única, encapsulamento e reutilização de código. O entendimento de conceitos como herança, polimorfismo e abstração foi essencial para construir uma base sólida e sustentável no projeto.  
+✅✅✅✅✅ **Metodologia Scrum:** Utilizamos também como padrãao a metodologia de Scrum fazendo uso do GitHub Actions para registro das atividades e também o Excel para o registro das horas gastas nas atividades assim formando o nosso burndown, foi muito importante no projeto porque através dessas ferramentas mas principalmente da metodologia conseguimos entregar com sucesso o projeto.
 
 
    __Soft Skills:__ <br>
@@ -1462,10 +1515,8 @@ CREATE TABLE fk_authorized_third_party_participants (
 <br>
 
 __Hard Skills:__ <br>
-✅✅✅✅⬜ **Modelagem de Dados (DDL)**  
-Atuei na estruturação do modelo DER e Lógico do banco de dados, servindo como base para o desenvolvimento do projeto, mesmo tendo sido implementado com MongoDB (não relacional). Elaborei o script DDL com integridade referencial utilizando constraints e chaves estrangeiras para representar corretamente os relacionamentos entre entidades como participants, authorized_third_parties e paymasters.  
-✅✅⬜⬜⬜ **Machine Learning**  
-Utilizei os conhecimentos adquiridos com o professor Mineda para desenvolver, junto com minha colega Ariane, um modelo de classificação com Random Forest para prever se o pagamento de uma nota fiscal seria realizado no prazo ou com atraso. Realizamos transformação de datas, codificação de variáveis categóricas e criamos a variável-alvo, além de avaliar o desempenho com acurácia e AUC-ROC.  
+✅✅✅✅⬜ **Modelagem de Dados (DDL):**  Atuei na estruturação do modelo DER e Lógico do banco de dados, servindo como base para o desenvolvimento do projeto, mesmo tendo sido implementado com MongoDB (não relacional). Elaborei o script DDL com integridade referencial utilizando constraints e chaves estrangeiras para representar corretamente os relacionamentos entre entidades como participants, authorized_third_parties e paymasters.  
+✅✅⬜⬜⬜ **Machine Learning:**  Utilizei os conhecimentos adquiridos com o professor Mineda para desenvolver, junto com minha colega Ariane, um modelo de classificação com Random Forest para prever se o pagamento de uma nota fiscal seria realizado no prazo ou com atraso. Realizamos transformação de datas, codificação de variáveis categóricas e criamos a variável-alvo, além de avaliar o desempenho com acurácia e AUC-ROC.  
 
 
 __Soft Skills:__ <br>
